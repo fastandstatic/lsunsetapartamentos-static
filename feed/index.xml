@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Sunset Boulevard</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Donde el lujo se encuentra con la comodidad</description>
 	<lastBuildDate>Thu, 09 Nov 2023 20:11:57 +0000</lastBuildDate>
 	<language>es</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.4.1</generator>
 
 <image>
-	<url>./../wp-content/uploads/2023/11/cropped-Mask-Group-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/11/cropped-Mask-Group-1-32x32.png</url>
 	<title>Sunset Boulevard</title>
-	<link>./../index.html</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 

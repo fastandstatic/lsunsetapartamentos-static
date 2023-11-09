@@ -59,7 +59,7 @@ text-align: center;
     color: white;
 }
 .section-form .form-sunset .eicon-caret-down:before {
-    content: url(./../../2023/10/Path-425.svg) !important;
+    content: url(/wp-content/uploads/2023/10/Path-425.svg) !important;
     right: 15px;
     position: relative;
 }
@@ -118,34 +118,34 @@ height: 8px;
 	font-style: normal;
 	font-weight: 900;
 	font-display: auto;
-	src: url('./../../2023/10/Metropolis-Black.ttf') format('truetype');
+	src: url('/wp-content/uploads/2023/10/Metropolis-Black.ttf') format('truetype');
 }
 @font-face {
 	font-family: 'Metropolis';
 	font-style: italic;
 	font-weight: 900;
 	font-display: auto;
-	src: url('./../../2023/10/Metropolis-BlackItalic.ttf') format('truetype');
+	src: url('/wp-content/uploads/2023/10/Metropolis-BlackItalic.ttf') format('truetype');
 }
 @font-face {
 	font-family: 'Metropolis';
 	font-style: normal;
 	font-weight: 700;
 	font-display: auto;
-	src: url('./../../2023/10/Metropolis-Bold.ttf') format('truetype');
+	src: url('/wp-content/uploads/2023/10/Metropolis-Bold.ttf') format('truetype');
 }
 @font-face {
 	font-family: 'Metropolis';
 	font-style: normal;
 	font-weight: 600;
 	font-display: auto;
-	src: url('./../../2023/10/Metropolis-SemiBold.ttf') format('truetype');
+	src: url('/wp-content/uploads/2023/10/Metropolis-SemiBold.ttf') format('truetype');
 }
 @font-face {
 	font-family: 'Metropolis';
 	font-style: normal;
 	font-weight: 500;
 	font-display: auto;
-	src: url('./../../2023/10/Metropolis-Medium.ttf') format('truetype');
+	src: url('/wp-content/uploads/2023/10/Metropolis-Medium.ttf') format('truetype');
 }
 /* End Custom Fonts CSS */

@@ -3,39 +3,3 @@
   justify-content: space-between;
   flex-wrap: wrap;  /* NEW */
 }/* End custom CSS */
-/* Start Custom Fonts CSS */@font-face {
-	font-family: 'Metropolis';
-	font-style: normal;
-	font-weight: 900;
-	font-display: auto;
-	src: url('/wp-content/uploads/2023/10/Metropolis-Black.ttf') format('truetype');
-}
-@font-face {
-	font-family: 'Metropolis';
-	font-style: italic;
-	font-weight: 900;
-	font-display: auto;
-	src: url('/wp-content/uploads/2023/10/Metropolis-BlackItalic.ttf') format('truetype');
-}
-@font-face {
-	font-family: 'Metropolis';
-	font-style: normal;
-	font-weight: 700;
-	font-display: auto;
-	src: url('/wp-content/uploads/2023/10/Metropolis-Bold.ttf') format('truetype');
-}
-@font-face {
-	font-family: 'Metropolis';
-	font-style: normal;
-	font-weight: 600;
-	font-display: auto;
-	src: url('/wp-content/uploads/2023/10/Metropolis-SemiBold.ttf') format('truetype');
-}
-@font-face {
-	font-family: 'Metropolis';
-	font-style: normal;
-	font-weight: 500;
-	font-display: auto;
-	src: url('/wp-content/uploads/2023/10/Metropolis-Medium.ttf') format('truetype');
-}
-/* End Custom Fonts CSS */

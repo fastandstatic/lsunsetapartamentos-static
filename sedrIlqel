@@ -1,0 +1,2207 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+		<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+	<!-- This site is optimized with the Yoast SEO plugin v22.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Sunset Boulevard - Sunset Boulevard</title>
+	<link rel="canonical" href="/">
+	<meta property="og:locale" content="es_ES">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="Sunset Boulevard - Sunset Boulevard">
+	<meta property="og:description" content="Sector Portal de Genovés, Cra. 46 Vía al Mar, al lado de la clínica Porto Azul. ¡Bienvenido a Sunset Boulevard! Donde el lujo se encuentra con la comodidad Entrega inmediata,precios desde $568.200.000 Contáctanos Disfruta de zonas comunes hechas a tu medida Ven y conoce Sunset Boulevard en persona Parque infantil Sauna Piscina Zona BBQ Parqueadero [&hellip;]">
+	<meta property="og:url" content="/">
+	<meta property="og:site_name" content="Sunset Boulevard">
+	<meta property="article:modified_time" content="2024-04-15T20:45:23+00:00">
+	<meta property="og:image" content="/wp-content/uploads/2023/10/Mask-Group-8.svg">
+	<meta name="twitter:card" content="summary_large_image">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"/","url":"/","name":"Sunset Boulevard - Sunset Boulevard","isPartOf":{"@id":"/#website"},"primaryImageOfPage":{"@id":"/#primaryimage"},"image":{"@id":"/#primaryimage"},"thumbnailUrl":"/wp-content/uploads/2023/10/Mask-Group-8.svg","datePublished":"2023-10-31T19:29:48+00:00","dateModified":"2024-04-15T20:45:23+00:00","breadcrumb":{"@id":"/#breadcrumb"},"inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["/"]}]},{"@type":"ImageObject","inLanguage":"es","@id":"/#primaryimage","url":"/wp-content/uploads/2023/10/Mask-Group-8.svg","contentUrl":"/wp-content/uploads/2023/10/Mask-Group-8.svg","width":271,"height":79},{"@type":"BreadcrumbList","@id":"/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Sunset Boulevard"}]},{"@type":"WebSite","@id":"/#website","url":"/","name":"Sunset Boulevard","description":"Donde el lujo se encuentra con la comodidad","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"es"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<script type="application/javascript">console.log('PixelYourSite PRO version 9.10.7.1');</script>
+<link rel="alternate" type="application/rss+xml" title="Sunset Boulevard &raquo; Feed" href="/feed/">
+<link rel="alternate" type="application/rss+xml" title="Sunset Boulevard &raquo; Feed de los comentarios" href="/comments/feed/">
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"🏳️‍⚧️","🏳️​⚧️")?!1:!n(e,"🇺🇳","🇺​🇳")&&!n(e,"🏴󠁧󠁢󠁥󠁮󠁧󠁿","🏴​󠁧​󠁢​󠁥​󠁮​󠁧​󠁿");case"emoji":return!n(e,"🐦‍⬛","🐦​⬛")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id="wp-emoji-styles-inline-css">img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}</style>
+<style id="classic-theme-styles-inline-css">/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}</style>
+<style id="global-styles-inline-css">body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}</style>
+<link rel="stylesheet" id="hello-elementor-css" href="/wp-content/themes/hello-elementor/style.min.css?ver=3.0.1" media="all">
+<link rel="stylesheet" id="hello-elementor-theme-style-css" href="/wp-content/themes/hello-elementor/theme.min.css?ver=3.0.1" media="all">
+<link rel="stylesheet" id="hello-elementor-header-footer-css" href="/wp-content/themes/hello-elementor/header-footer.min.css?ver=3.0.1" media="all">
+<link rel="stylesheet" id="elementor-frontend-css" href="/wp-content/uploads/elementor/css/custom-frontend-lite.min.css?ver=1709310296" media="all">
+<link rel="stylesheet" id="elementor-post-5-css" href="/wp-content/uploads/elementor/css/post-5.css?ver=1709309966" media="all">
+<link rel="stylesheet" id="elementor-lazyload-css" href="/wp-content/plugins/elementor/assets/css/modules/lazyload/frontend.min.css?ver=3.19.4" media="all">
+<link rel="stylesheet" id="swiper-css" href="/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5" media="all">
+<link rel="stylesheet" id="elementor-pro-css" href="/wp-content/uploads/elementor/css/custom-pro-frontend-lite.min.css?ver=1709310296" media="all">
+<link rel="stylesheet" id="elementor-global-css" href="/wp-content/uploads/elementor/css/global.css?ver=1709310299" media="all">
+<link rel="stylesheet" id="elementor-post-1306-css" href="/wp-content/uploads/elementor/css/post-1306.css?ver=1713213933" media="all">
+<script src="/wp-content/plugins/pixelyoursite-pro/dist/scripts/js.cookie-2.1.3.min.js?ver=2.1.3" id="js-cookie-pys-js"></script>
+<script src="/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="/wp-content/plugins/pixelyoursite-pro/dist/scripts/jquery.bind-first-0.2.3.min.js?ver=6.5.2" id="jquery-bind-first-js"></script>
+<script id="pys-js-extra">var pysOptions = {"staticEvents":{"facebook":{"init_event":[{"delay":0,"type":"static","name":"PageView","eventID":"34b986ea-804b-4a01-9bb6-5530946434eb","pixelIds":["6067611143368043"],"params":{"page_title":"Sunset Boulevard","post_type":"page","post_id":1306,"plugin":"PixelYourSite","event_url":"lsunsetapartamentos.fastandstatic.com\/","user_role":"guest"},"e_id":"init_event","ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""}]}},"dynamicEvents":[],"triggerEvents":[],"triggerEventTypes":[],"facebook":{"pixelIds":["6067611143368043"],"advancedMatchingEnabled":true,"advancedMatching":[],"removeMetadata":false,"wooVariableAsSimple":false,"serverApiEnabled":true,"wooCRSendFromServer":false,"send_external_id":true},"ga":{"trackingIds":["G-MYJM9ZM3ZR"],"enhanceLinkAttr":false,"anonimizeIP":false,"retargetingLogic":"ecomm","crossDomainEnabled":false,"crossDomainAcceptIncoming":false,"crossDomainDomains":[],"wooVariableAsSimple":true,"isDebugEnabled":[false],"disableAdvertisingFeatures":false,"disableAdvertisingPersonalization":false},"debug":"","siteUrl":"","ajaxUrl":"\/wp-admin\/admin-ajax.php","ajax_event":"c129da7762","trackUTMs":"1","trackTrafficSource":"1","user_id":"0","enable_lading_page_param":"1","cookie_duration":"7","enable_event_day_param":"1","enable_event_month_param":"1","enable_event_time_param":"1","enable_remove_target_url_param":"1","enable_remove_download_url_param":"1","visit_data_model":"first_visit","last_visit_duration":"60","enable_auto_save_advance_matching":"1","advance_matching_fn_names":["","first_name","first-name","first name","name"],"advance_matching_ln_names":["","last_name","last-name","last name"],"advance_matching_tel_names":["","phone","tel"],"enable_success_send_form":"","enable_automatic_events":"","enable_event_video":"1","ajaxForServerEvent":"1","send_external_id":"1","external_id_expire":"180","gdpr":{"ajax_enabled":false,"all_disabled_by_api":false,"facebook_disabled_by_api":false,"tiktok_disabled_by_api":false,"analytics_disabled_by_api":false,"google_ads_disabled_by_api":false,"pinterest_disabled_by_api":false,"bing_disabled_by_api":false,"externalID_disabled_by_api":false,"facebook_prior_consent_enabled":true,"tiktok_prior_consent_enabled":true,"analytics_prior_consent_enabled":true,"google_ads_prior_consent_enabled":true,"pinterest_prior_consent_enabled":true,"bing_prior_consent_enabled":true,"cookiebot_integration_enabled":false,"cookiebot_facebook_consent_category":"marketing","cookiebot_tiktok_consent_category":"marketing","cookiebot_analytics_consent_category":"statistics","cookiebot_google_ads_consent_category":"marketing","cookiebot_pinterest_consent_category":"marketing","cookiebot_bing_consent_category":"marketing","cookie_notice_integration_enabled":false,"cookie_law_info_integration_enabled":false,"real_cookie_banner_integration_enabled":false,"consent_magic_integration_enabled":false},"cookie":{"disabled_all_cookie":false,"disabled_advanced_form_data_cookie":false,"disabled_landing_page_cookie":false,"disabled_first_visit_cookie":false,"disabled_trafficsource_cookie":false,"disabled_utmTerms_cookie":false,"disabled_utmId_cookie":false},"automatic":{"enable_youtube":true,"enable_vimeo":true,"enable_video":true},"woo":{"enabled":false},"edd":{"enabled":false}};</script>
+<script src="/wp-content/plugins/pixelyoursite-pro/dist/scripts/public.js?ver=9.10.7.1" id="pys-js"></script>
+<link rel="https://api.w.org/" href="/wp-json/">
+<link rel="alternate" type="application/json" href="/wp-json/wp/v2/pages/1306">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.5.2">
+<link rel="shortlink" href="/">
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2F">
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2F#038;format=xml">
+<!-- start Simple Custom CSS and JS -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KMHCXL9');</script>
+<!-- end Simple Custom CSS and JS -->
+<!-- start Simple Custom CSS and JS -->
+<style>#padre{   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+	position: fixed;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	height: 100vh;
+	width: 80px;
+	background-color: transparent;
+	z-index: 999;
+	padding: 0;
+    margin: 0;   
+}
+.pad > div#hijo1:hover {
+    background-color: #cf956c;
+    border-radius: 20px 0px 0px 0px;
+}
+.pad > div#hijo2:hover {
+	background-color: #cf956c;
+}
+.pad > div#hijo3:hover {
+    background-color: #cf956c;
+    border-radius: 0px 0px 0px 30px;
+}
+#otro_div, #otro_div2, #otro_div3{    
+    
+background: rgb(255,255,255);
+background: linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(255,255,255,0) 6%, rgba(0,0,0,1) 100%);
+display: none;
+width: 100vw;
+height: 100vh;
+position: fixed;
+left: 0;
+top: 0;
+bottom: 0;
+z-index: 89;
+color: #fff;
+align-items: center;
+    justify-content: flex-end;
+padding: 100px;
+}
+.pad > div {
+    padding: 21px;
+    cursor: pointer;
+}
+.pad {
+    margin: 0;
+    padding: 0;
+    background-color: #EFAB7B;
+    border-radius: 30px 0px 0px 30px;
+    display: block;
+
+}
+.text-od {
+    color: white;
+}
+#otro_div .hijo1 {
+    position: absolute;
+    top: 50%;
+    right: 120px;
+    margin-top: -100px;
+    font-size: 20px;
+    font-weight: 900;
+	line-height: 24px;
+    width: 120px;
+}
+#otro_div2 .hijo2 {
+    position: absolute;
+    top: 60%;
+    right: 100px;
+    margin-top: -100px;
+    font-size: 20px;
+    font-weight: 900;
+    width: 150px;
+    line-height: 22px;
+}
+#otro_div3 .hijo3 {
+    position: absolute;
+    top: 70%;
+    right: 100px;
+    margin-top: -100px;
+    font-size: 20px;
+    font-weight: 900;
+    width: 150px;
+    line-height: 22px;
+}
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+	 #padre {
+		width: 60px;
+		top: -100px;
+		align-items: flex-end;
+	}
+	.pad {
+		border-radius: 10px 0px 0px 10px;
+	}
+	.pad > div {
+		padding: 16px;
+	}
+	.owl-item .item {
+		height: 250px !important;
+	}
+	.owl-item a.ue-thumb-holder .item.ue-thumb {
+		height: 120px !important;
+	}
+	.owl-carousel.uc-carousel-sync1 .owl-item {
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	.owl-item {
+		margin-right: 0px !important;
+	}
+	.elementor-tab-title {
+		flex: 0 0 auto;
+	}
+	.section-tab .elementor-tab-desktop-title.elementor-active {
+		border-radius: 24px 24px 0px 0px;
+	}
+}</style>
+<!-- end Simple Custom CSS and JS -->
+<!-- start Simple Custom CSS and JS -->
+<link rel="icon" type="image/png" href="/wp-content/uploads/2023/11/Mask-Group-1.png">												
+<script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
+</head>
+<body>
+<div id="padre">
+        <div class="pad">
+            <div id="hijo1">
+                <a href="https://www.google.com/maps/@11.0141898,-74.84425,3a,75y,248.93h,114.35t/data=!3m6!1e1!3m4!1sI5fr2Am6kKMCzHGR7kO54g!2e0!7i16384!8i8192?entry=ttu" target="_blank" rel="noopener">
+                <img src="/wp-content/uploads/2023/10/Group-33.svg">
+                </a>
+            </div>
+            <div id="hijo2"> 
+                <a href="#formsunset">
+                <img src="/wp-content/uploads/2023/10/Group-38.svg">
+                </a>
+            </div>
+            <div id="hijo3">
+                <a href="https://wa.link/iav9v7" target="_blank" rel="noopener">
+                <img src="/wp-content/uploads/2023/10/Path-25.svg">
+                </a>
+            </div>
+        </div>
+    </div>
+ 
+    <div id="otro_div">
+        <p class="hijo1">Punto Sala de Ventas</p>
+    </div>
+    <div id="otro_div2">
+        <p class="hijo2">¿Prefieres que te llamemos?</p>
+    </div>
+    <div id="otro_div3">
+        <p class="hijo3">Escríbenos a WhatsApp</p>
+    </div>
+<!-- end Simple Custom CSS and JS -->
+<meta name="generator" content="Elementor 3.19.4; features: e_optimized_assets_loading, e_optimized_css_loading, e_font_icon_svg, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-external, google_font-enabled, font_display-auto">
+<link rel="icon" href="/wp-content/uploads/2023/11/cropped-Mask-Group-1-32x32.png" sizes="32x32">
+<link rel="icon" href="/wp-content/uploads/2023/11/cropped-Mask-Group-1-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="/wp-content/uploads/2023/11/cropped-Mask-Group-1-180x180.png">
+<meta name="msapplication-TileImage" content="/wp-content/uploads/2023/11/cropped-Mask-Group-1-270x270.png">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+
+	<!-- start Simple Custom CSS and JS -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KMHCXL9" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+
+<!-- end Simple Custom CSS and JS -->
+		<div data-elementor-type="wp-page" data-elementor-id="1306" class="elementor elementor-1306" data-elementor-post-type="page">
+				<div class="elementor-element elementor-element-0ad2313 e-con-full e-flex e-con e-parent" data-id="0ad2313" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;gradient&quot;,&quot;container_type&quot;:&quot;flex&quot;}" data-core-v316-plus="true">
+		<div class="elementor-element elementor-element-bded894 e-flex e-con-boxed e-con e-child" data-id="bded894" data-element_type="container" data-settings="{&quot;container_type&quot;:&quot;flex&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-44b64fe elementor-widget elementor-widget-image" data-id="44b64fe" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.19.0 - 28-02-2024 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>											<a href="/">
+							<img decoding="async" width="271" height="79" src="/wp-content/uploads/2023/10/Mask-Group-8.svg" class="attachment-full size-full wp-image-546" alt="">								</a>
+													</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-b446229 e-con-full e-flex e-con e-child" data-id="b446229" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;container_type&quot;:&quot;flex&quot;}">
+		<div class="elementor-element elementor-element-1b5fefd e-con-full ubicaction e-flex e-con e-child" data-id="1b5fefd" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;container_type&quot;:&quot;flex&quot;}">
+				<div class="elementor-element elementor-element-e3eab49 elementor-icon-list--layout-inline elementor-align-left elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="e3eab49" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="/wp-content/uploads/elementor/css/custom-widget-icon-list.min.css?ver=1709310306">		<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item elementor-inline-item">
+											<span class="elementor-icon-list-icon">
+							<svg xmlns="http://www.w3.org/2000/svg" width="30.454" height="40.194" viewbox="0 0 30.454 40.194"><g id="Group_5871" data-name="Group 5871" transform="translate(-1021.792 -75.488)"><path id="Path_36" data-name="Path 36" d="M43.489,36.488A15.284,15.284,0,0,0,28.262,51.8c0,5.449,1.649,7.635,9.572,18.135,1.375,1.823,2.934,3.889,4.718,6.28a1.168,1.168,0,0,0,1.874,0c1.773-2.378,3.325-4.436,4.695-6.252,7.942-10.532,9.6-12.723,9.6-18.163A15.284,15.284,0,0,0,43.489,36.488m3.765,32.048c-1.125,1.492-2.373,3.146-3.766,5.008-1.4-1.874-2.657-3.537-3.788-5.036C31.993,58.293,30.6,56.453,30.6,51.8a12.885,12.885,0,1,1,25.769,0c0,4.648-1.392,6.494-9.119,16.74" transform="translate(993.53 39)" fill="#fff"></path><path id="Path_37" data-name="Path 37" d="M43.489,43.553a8.243,8.243,0,1,0,8.2,8.243,8.23,8.23,0,0,0-8.2-8.243m0,14.131A5.888,5.888,0,1,1,49.346,51.8a5.879,5.879,0,0,1-5.857,5.888" transform="translate(993.53 39)" fill="#fff"></path></g></svg>						</span>
+										<span class="elementor-icon-list-text">Sector Portal de Genovés, Cra. 46 Vía al Mar, al lado de la clínica Porto Azul.</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-f0bed63 e-con-full rounded e-flex e-con e-parent" data-id="f0bed63" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;container_type&quot;:&quot;flex&quot;}" data-e-bg-lazyload="" data-core-v316-plus="true">
+		<div class="elementor-element elementor-element-f05f78e e-flex e-con-boxed e-con e-child" data-id="f05f78e" data-element_type="container" data-settings="{&quot;container_type&quot;:&quot;flex&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-955a1f2 elementor-widget elementor-widget-heading" data-id="955a1f2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.19.0 - 28-02-2024 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style>
+<h2 class="elementor-heading-title elementor-size-default">¡Bienvenido a<br>
+Sunset Boulevard!</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0ce86cd elementor-widget elementor-widget-heading" data-id="0ce86cd" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">Donde el lujo se encuentra con la comodidad </h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-906eb21 elementor-widget elementor-widget-text-editor" data-id="906eb21" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.19.0 - 28-02-2024 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Entrega inmediata,<br>precios desde <strong>$568.200.000</strong></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-4cb0dba elementor-align-center elementor-widget elementor-widget-button" data-id="4cb0dba" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="#formsunset">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-left">
+				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="21" viewbox="0 0 22 21"><defs><clippath id="clip-path"><rect id="Rectangle_13" data-name="Rectangle 13" width="22" height="21" transform="translate(-0.074 0.05)" fill="#fff"></rect></clippath></defs><g id="Group_5872" data-name="Group 5872" transform="translate(0.074 -0.05)"><g id="Group_13" data-name="Group 13" transform="translate(0)" clip-path="url(#clip-path)"><path id="Path_1" data-name="Path 1" d="M19.086,2.068V.8A.8.8,0,1,0,17.5.8v1.59H4.771V.8a.751.751,0,0,0-.8-.8.751.751,0,0,0-.8.8V2.068A4.088,4.088,0,0,0,0,6.044V17.018c0,2.227,1.829,4.453,4.056,4.453H18.211c2.227,0,4.056-2.227,4.056-4.453V6.044a4.088,4.088,0,0,0-3.181-3.976m-15.9,1.67V4.771a.751.751,0,0,0,.8.8.751.751,0,0,0,.8-.8v-.8H17.5v.8a.8.8,0,0,0,1.59,0V3.738a2.5,2.5,0,0,1,1.59,2.306V7.157H1.59V6.044a2.5,2.5,0,0,1,1.59-2.306m15.03,16.143H4.056A2.851,2.851,0,0,1,1.59,17.018V8.748H20.676v8.271a2.851,2.851,0,0,1-2.465,2.863" transform="translate(-0.121 -0.291)" fill="#fff"></path><path id="Path_2" data-name="Path 2" d="M166.185,208.239l-4.135,4.851L160.22,210.7a.8.8,0,1,0-1.272.954l2.386,3.181a.982.982,0,0,0,.636.318.9.9,0,0,0,.636-.239l4.771-5.567a.818.818,0,0,0-1.193-1.113" transform="translate(-151.037 -197.953)" fill="#fff"></path></g></g></svg>			</span>
+						<span class="elementor-button-text">Contáctanos</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-a4ee789 e-flex e-con-boxed e-con e-parent" data-id="a4ee789" data-element_type="container" data-settings="{&quot;container_type&quot;:&quot;flex&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-ab99904 e-flex e-con-boxed e-con e-child" data-id="ab99904" data-element_type="container" data-settings="{&quot;container_type&quot;:&quot;flex&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-eac789c elementor-widget elementor-widget-heading" data-id="eac789c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Disfruta de zonas comunes hechas a tu medida</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-68746e5 elementor-widget-mobile__width-initial elementor-widget elementor-widget-heading" data-id="68746e5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Ven y conoce Sunset Boulevard  en persona</p>		</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-fc7f804 e-con-full slider-conc e-flex e-con e-parent" data-id="fc7f804" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;container_type&quot;:&quot;flex&quot;}" data-core-v316-plus="true">
+		<div class="elementor-element elementor-element-a024abd e-con-full e-flex e-con e-child" data-id="a024abd" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;container_type&quot;:&quot;flex&quot;}">
+		<div class="elementor-element elementor-element-41ff7a3 e-con-full e-flex e-con e-child" data-id="41ff7a3" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;container_type&quot;:&quot;flex&quot;}">
+				<div class="elementor-element elementor-element-00f4aa4 elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-ucaddon_card_carousel" data-id="00f4aa4" data-element_type="widget" data-widget_type="ucaddon_card_carousel.default">
+				<div class="elementor-widget-container">
+			<!-- start Card Carousel -->
+		<link id="font-awesome-css" href="/wp-content/plugins/unlimited-elements-for-elementor-premium/assets_libraries/font-awesome5/css/fontawesome-all.min.css" type="text/css" rel="stylesheet">
+		<link id="font-awesome-4-shim-css" href="/wp-content/plugins/unlimited-elements-for-elementor-premium/assets_libraries/font-awesome5/css/fontawesome-v4-shims.css" type="text/css" rel="stylesheet">
+		<link id="owl-carousel-css" href="/wp-content/plugins/unlimited-elements-for-elementor-premium/assets_libraries/owl-carousel-new/assets/owl.carousel.css" type="text/css" rel="stylesheet">
+		<link id="uc_ac_assets_file_animate_css_77907-css" href="/wp-content/uploads/ac_assets/uc_classic_carousel/animate.css" type="text/css" rel="stylesheet">
+
+			<style type="text/css">/* widget: Card Carousel */
+
+#uc_card_carousel_elementor_00f4aa4-wrapper
+{
+  min-height:1px;
+}
+#uc_card_carousel_elementor_00f4aa4 *{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+#uc_card_carousel_elementor_00f4aa4 .ue-carousel-item
+{
+  overflow:hidden;
+  transition:0.3s;
+}
+
+#uc_card_carousel_elementor_00f4aa4 .uc_classic_carousel_container_holder
+{
+	display:block;
+	position:relative;
+	width:100%;
+    box-sizing: border-box;
+}
+#uc_card_carousel_elementor_00f4aa4 .uc_classic_carousel_placeholder{
+   position:relative;
+}
+
+#uc_card_carousel_elementor_00f4aa4 .uc_classic_carousel_placeholder img, #uc_card_carousel_elementor_00f4aa4 .ue_card_carousel_image_overlay
+{
+  transition: all 300ms;
+}
+
+.card_carousel_title
+{
+	font-size:21px;
+}
+
+.uc_classic_carousel .uc_classic_carousel_border
+{
+	display:block;
+    margin:0 auto;
+}
+
+.uc_classic_carousel  .uc_classic_carousel_placeholder img
+{
+	width:100%;
+    
+    display:inline-flex;
+}
+.uc_classic_carousel .uc_classic_carousel_content
+{
+  display: flex;
+ flex-flow: column nowrap;
+}
+
+.uc_classic_carousel .ue_button
+{
+  margin-top:auto;
+
+}
+
+.uc_classic_carousel .uc_classic_carousel_content .uc_more_btn {
+	display:inline-block;
+	text-decoration:none;
+	transition: all 0.5s ease;
+}
+
+
+#uc_card_carousel_elementor_00f4aa4 .owl-dots {
+overflow:hidden;
+text-align:center;
+}
+
+#uc_card_carousel_elementor_00f4aa4 .owl-dot {
+border-radius:50%;
+display:inline-block;
+}
+
+#uc_card_carousel_elementor_00f4aa4 .owl-nav .owl-prev{
+    position:absolute;
+    display:inline-block;
+    text-align:center;
+}
+#uc_card_carousel_elementor_00f4aa4 .owl-nav .owl-next{
+  position:absolute;
+  display:inline-block;
+  text-align:center;
+}
+
+#uc_card_carousel_elementor_00f4aa4 .owl-nav .disabled
+{
+    display: none;  
+}
+
+
+#uc_card_carousel_elementor_00f4aa4 .ue-item-icon
+{
+  line-height:1em;
+  display:inline-flex;
+  justify-content:center;
+  align-items:center;
+  
+}
+
+#uc_card_carousel_elementor_00f4aa4 .ue-item-icon svg
+{
+  height:1em;
+  width:1em;
+}
+
+#uc_card_carousel_elementor_00f4aa4 .ue-item-icon-wrapper
+{
+  display:flex;
+}
+
+#uc_card_carousel_elementor_00f4aa4 .uc_classic_carousel_container_holder {
+	 max-width: ;
+}
+
+
+
+@media screen and (max-width: 1024px) {
+  #uc_card_carousel_elementor_00f4aa4 .uc_classic_carousel_container_holder {
+	 max-width: ;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  #uc_card_carousel_elementor_00f4aa4 .uc_classic_carousel_container_holder {
+    max-width: ;
+  }
+}</style>
+
+			<div class="uc_classic_carousel" id="uc_card_carousel_elementor_00f4aa4-wrapper">
+        <div class="uc_carousel owl-carousel uc-items-wrapper  " id="uc_card_carousel_elementor_00f4aa4">
+          	<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-f7c4ec3">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img fetchpriority="high" decoding="async" src="/wp-content/uploads/2023/10/Conconcreto-barranquilla-sunset-apartamentos-piscinas.png" alt="Conconcreto-barranquilla-sunset-apartamentos-piscinas" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-cb3de83">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img decoding="async" src="/wp-content/uploads/2023/10/LOBBY-3.png" alt="LOBBY 3" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-2ce2010">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/Conconcreto-barranquilla-sunset-apartamentos-juegos-fachada.png" alt="Conconcreto-barranquilla-sunset-apartamentos-juegos-fachada" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-f1a3007">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/sauna.png" alt="sauna" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-5bbe207">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/cancha-multiple.png" alt="cancha multiple" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-93332d2">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/gym.png" alt="gym" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-f6664dc">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/Conconcreto-barranquilla-sunset-apartamentos-cancha-squash.png" alt="Conconcreto-barranquilla-sunset-apartamentos-cancha-squash" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-e482aba">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/bbq.png" alt="bbq" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-b381cf8">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/zona-pet.png" alt="zona pet" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-8711637">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/CKP0976-2500px.png" alt="_CKP0976-2500px" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-d6a2554">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/DSC0026.png" alt="_DSC0026" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-cbb83d7">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/Conconcreto-barranquilla-sunset-apartamentos-car-lobby.png" alt="Conconcreto-barranquilla-sunset-apartamentos-car-lobby" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-f78df66">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/Conconcreto-barranquilla-sunset-apartamentos-carlobby.png" alt="Conconcreto-barranquilla-sunset-apartamentos-carlobby" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-0fed294">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/Conconcreto-barranquilla-sunset-apartamentos-carlobby4.png" alt="Conconcreto-barranquilla-sunset-apartamentos-carlobby4" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-36f1c93">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/Conconcreto-barranquilla-sunset-apartamentos-car-lobby.png" alt="Conconcreto-barranquilla-sunset-apartamentos-car-lobby" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-e6d015f">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/Conconcreto-barranquilla-sunset-apartamentos-fachada2.png" alt="Conconcreto-barranquilla-sunset-apartamentos-fachada2" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-fdca1f2">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/Conconcreto-barranquilla-sunset-apartamentos-gym2.png" alt="Conconcreto-barranquilla-sunset-apartamentos-gym2" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-445391f">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/Conconcreto-barranquilla-sunset-apartamentos-juegos-ninos.png" alt="Conconcreto-barranquilla-sunset-apartamentos-juegos-ninos" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-c8b896b">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/Conconcreto-barranquilla-sunset-apartamentos-lobby2.png" alt="Conconcreto-barranquilla-sunset-apartamentos-lobby2" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-1b53114">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/Conconcreto-barranquilla-sunset-apartamentos-lobby5.png" alt="Conconcreto-barranquilla-sunset-apartamentos-lobby5" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-fd27ac9">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/Conconcreto-barranquilla-sunset-apartamentos-piscina-fachada.png" alt="Conconcreto-barranquilla-sunset-apartamentos-piscina-fachada" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-60684e2">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/Conconcreto-barranquilla-sunset-apartamentos-zonas-verdes-2.png" alt="Conconcreto-barranquilla-sunset-apartamentos-zonas-verdes-2" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+
+      </div>
+</div>
+			<!-- end Card Carousel -->		</div>
+				</div>
+				<div class="elementor-element elementor-element-956cbb2 elementor-hidden-widescreen elementor-hidden-desktop elementor-hidden-laptop elementor-widget elementor-widget-ucaddon_card_carousel" data-id="956cbb2" data-element_type="widget" data-widget_type="ucaddon_card_carousel.default">
+				<div class="elementor-widget-container">
+			<!-- start Card Carousel -->
+
+			<style type="text/css">/* widget: Card Carousel */
+
+#uc_card_carousel_elementor_956cbb2-wrapper
+{
+  min-height:1px;
+}
+#uc_card_carousel_elementor_956cbb2 *{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+#uc_card_carousel_elementor_956cbb2 .ue-carousel-item
+{
+  overflow:hidden;
+  transition:0.3s;
+}
+
+#uc_card_carousel_elementor_956cbb2 .uc_classic_carousel_container_holder
+{
+	display:block;
+	position:relative;
+	width:100%;
+    box-sizing: border-box;
+}
+#uc_card_carousel_elementor_956cbb2 .uc_classic_carousel_placeholder{
+   position:relative;
+}
+
+#uc_card_carousel_elementor_956cbb2 .uc_classic_carousel_placeholder img, #uc_card_carousel_elementor_956cbb2 .ue_card_carousel_image_overlay
+{
+  transition: all 300ms;
+}
+
+.card_carousel_title
+{
+	font-size:21px;
+}
+
+.uc_classic_carousel .uc_classic_carousel_border
+{
+	display:block;
+    margin:0 auto;
+}
+
+.uc_classic_carousel  .uc_classic_carousel_placeholder img
+{
+	width:100%;
+    
+    display:inline-flex;
+}
+.uc_classic_carousel .uc_classic_carousel_content
+{
+  display: flex;
+ flex-flow: column nowrap;
+}
+
+.uc_classic_carousel .ue_button
+{
+  margin-top:auto;
+
+}
+
+.uc_classic_carousel .uc_classic_carousel_content .uc_more_btn {
+	display:inline-block;
+	text-decoration:none;
+	transition: all 0.5s ease;
+}
+
+
+#uc_card_carousel_elementor_956cbb2 .owl-dots {
+overflow:hidden;
+text-align:center;
+}
+
+#uc_card_carousel_elementor_956cbb2 .owl-dot {
+border-radius:50%;
+display:inline-block;
+}
+
+#uc_card_carousel_elementor_956cbb2 .owl-nav .owl-prev{
+    position:absolute;
+    display:inline-block;
+    text-align:center;
+}
+#uc_card_carousel_elementor_956cbb2 .owl-nav .owl-next{
+  position:absolute;
+  display:inline-block;
+  text-align:center;
+}
+
+#uc_card_carousel_elementor_956cbb2 .owl-nav .disabled
+{
+    display: none;  
+}
+
+
+#uc_card_carousel_elementor_956cbb2 .ue-item-icon
+{
+  line-height:1em;
+  display:inline-flex;
+  justify-content:center;
+  align-items:center;
+  
+}
+
+#uc_card_carousel_elementor_956cbb2 .ue-item-icon svg
+{
+  height:1em;
+  width:1em;
+}
+
+#uc_card_carousel_elementor_956cbb2 .ue-item-icon-wrapper
+{
+  display:flex;
+}
+
+#uc_card_carousel_elementor_956cbb2 .uc_classic_carousel_container_holder {
+	 max-width: ;
+}
+
+
+
+@media screen and (max-width: 1024px) {
+  #uc_card_carousel_elementor_956cbb2 .uc_classic_carousel_container_holder {
+	 max-width: ;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  #uc_card_carousel_elementor_956cbb2 .uc_classic_carousel_container_holder {
+    max-width: ;
+  }
+}</style>
+
+			<div class="uc_classic_carousel" id="uc_card_carousel_elementor_956cbb2-wrapper">
+        <div class="uc_carousel owl-carousel uc-items-wrapper  " id="uc_card_carousel_elementor_956cbb2">
+          	<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-f7c4ec3">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img fetchpriority="high" decoding="async" src="/wp-content/uploads/2023/10/Conconcreto-barranquilla-sunset-apartamentos-piscinas.png" alt="Conconcreto-barranquilla-sunset-apartamentos-piscinas" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-cb3de83">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img decoding="async" src="/wp-content/uploads/2023/10/LOBBY-3.png" alt="LOBBY 3" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-2ce2010">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/Conconcreto-barranquilla-sunset-apartamentos-juegos-fachada.png" alt="Conconcreto-barranquilla-sunset-apartamentos-juegos-fachada" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-f1a3007">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/sauna.png" alt="sauna" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-5bbe207">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/cancha-multiple.png" alt="cancha multiple" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-93332d2">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/gym.png" alt="gym" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-f6664dc">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/Conconcreto-barranquilla-sunset-apartamentos-cancha-squash.png" alt="Conconcreto-barranquilla-sunset-apartamentos-cancha-squash" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-e482aba">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/bbq.png" alt="bbq" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-b381cf8">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/zona-pet.png" alt="zona pet" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-8711637">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/CKP0976-2500px.png" alt="_CKP0976-2500px" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-d6a2554">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/DSC0026.png" alt="_DSC0026" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-cbb83d7">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/Conconcreto-barranquilla-sunset-apartamentos-car-lobby.png" alt="Conconcreto-barranquilla-sunset-apartamentos-car-lobby" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-f78df66">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/Conconcreto-barranquilla-sunset-apartamentos-carlobby.png" alt="Conconcreto-barranquilla-sunset-apartamentos-carlobby" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-0fed294">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/Conconcreto-barranquilla-sunset-apartamentos-carlobby4.png" alt="Conconcreto-barranquilla-sunset-apartamentos-carlobby4" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-36f1c93">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/Conconcreto-barranquilla-sunset-apartamentos-car-lobby.png" alt="Conconcreto-barranquilla-sunset-apartamentos-car-lobby" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-e6d015f">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/Conconcreto-barranquilla-sunset-apartamentos-fachada2.png" alt="Conconcreto-barranquilla-sunset-apartamentos-fachada2" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-fdca1f2">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/Conconcreto-barranquilla-sunset-apartamentos-gym2.png" alt="Conconcreto-barranquilla-sunset-apartamentos-gym2" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-445391f">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/Conconcreto-barranquilla-sunset-apartamentos-juegos-ninos.png" alt="Conconcreto-barranquilla-sunset-apartamentos-juegos-ninos" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-c8b896b">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/Conconcreto-barranquilla-sunset-apartamentos-lobby2.png" alt="Conconcreto-barranquilla-sunset-apartamentos-lobby2" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-1b53114">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/Conconcreto-barranquilla-sunset-apartamentos-lobby5.png" alt="Conconcreto-barranquilla-sunset-apartamentos-lobby5" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-fd27ac9">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/Conconcreto-barranquilla-sunset-apartamentos-piscina-fachada.png" alt="Conconcreto-barranquilla-sunset-apartamentos-piscina-fachada" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+<div class="uc_classic_carousel_container_holder ue-item elementor-repeater-item-60684e2">
+  <div class="ue-carousel-item">
+      <div class="uc_classic_carousel_placeholder">
+          <img loading="lazy" decoding="async" src="/wp-content/uploads/2023/10/Conconcreto-barranquilla-sunset-apartamentos-zonas-verdes-2.png" alt="Conconcreto-barranquilla-sunset-apartamentos-zonas-verdes-2" width="291" height="255">
+          </div>
+    <div class="uc_classic_carousel_content" style="direction:ltr;">
+    
+    
+        
+    	
+    
+      
+        
+    
+    	
+    
+    
+    	
+  </div>
+  </div>
+</div>
+
+      </div>
+</div>
+			<!-- end Card Carousel -->		</div>
+				</div>
+		<div class="elementor-element elementor-element-c054952 e-flex e-con-boxed e-con e-child" data-id="c054952" data-element_type="container" data-settings="{&quot;container_type&quot;:&quot;flex&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-9b4fc88 elementor-widget elementor-widget-ucaddon_swipe_css_carousel" data-id="9b4fc88" data-element_type="widget" data-widget_type="ucaddon_swipe_css_carousel.default">
+				<div class="elementor-widget-container">
+			<!-- start Swipe Carousel -->
+			<style type="text/css">/* widget: Swipe Carousel */
+
+#uc_swipe_css_carousel_elementor_9b4fc88,
+#uc_swipe_css_carousel_elementor_9b4fc88 .uc-items-wrapper{
+    padding: 0px;
+    display: flex;
+    overflow: scroll;
+  	width: 100%;
+  	}
+
+#uc_swipe_css_carousel_elementor_9b4fc88 .galleryItem {
+    background-position:center;
+    flex-shrink: 0;
+    position:relative;
+    background-repeat:no-repeat;
+  	display: flex;
+  	}
+
+#uc_swipe_css_carousel_elementor_9b4fc88 .swipe_css_carousel-content{
+	position: absolute;
+  	left: 0;
+}
+
+#uc_swipe_css_carousel_elementor_9b4fc88::-webkit-scrollbar,
+#uc_swipe_css_carousel_elementor_9b4fc88 .uc-items-wrapper::-webkit-scrollbar {
+  width: 0px !important;
+  height: 0px !important;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+#uc_swipe_css_carousel_elementor_9b4fc88::-webkit-scrollbar-thumb,
+#uc_swipe_css_carousel_elementor_9b4fc88 .uc-items-wrapper::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+#uc_swipe_css_carousel_elementor_9b4fc88::-webkit-scrollbar-track,
+#uc_swipe_css_carousel_elementor_9b4fc88 .uc-items-wrapper::-webkit-scrollbar-track {
+  background-color: rgba(255, 255, 255, 0.0);
+}
+
+#uc_swipe_css_carousel_elementor_9b4fc88 .galleryItemLink{
+  display:block;
+  position:absolute;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+}
+
+    #uc_swipe_css_carousel_elementor_9b4fc88 .uc-items-wrapper:not(.active){
+        scroll-snap-type: both mandatory;
+    }
+
+    #uc_swipe_css_carousel_elementor_9b4fc88 .galleryItem{
+        scroll-snap-align: start;
+    }
+  #uc_swipe_css_carousel_elementor_9b4fc88_item1{
+	background-image: url(/wp-content/uploads/2023/10/Group-5870.svg);
+}
+
+#uc_swipe_css_carousel_elementor_9b4fc88_item2{
+	background-image: url(/wp-content/uploads/2023/10/Group-5881.svg);
+}
+
+#uc_swipe_css_carousel_elementor_9b4fc88_item3{
+	background-image: url(/wp-content/uploads/2023/10/Group-5880.svg);
+}
+
+#uc_swipe_css_carousel_elementor_9b4fc88_item4{
+	background-image: url(/wp-content/uploads/2023/10/Group-5879.svg);
+}
+
+#uc_swipe_css_carousel_elementor_9b4fc88_item5{
+	background-image: url(/wp-content/uploads/2023/10/Group-5878-1.svg);
+}
+
+#uc_swipe_css_carousel_elementor_9b4fc88_item6{
+	background-image: url(/wp-content/uploads/2023/10/Group-5877-1.svg);
+}
+
+#uc_swipe_css_carousel_elementor_9b4fc88_item7{
+	background-image: url(/wp-content/uploads/2023/10/Group-5876-1.svg);
+}
+
+#uc_swipe_css_carousel_elementor_9b4fc88_item8{
+	background-image: url(/wp-content/uploads/2023/10/Group-5875-1.svg);
+}
+
+#uc_swipe_css_carousel_elementor_9b4fc88_item9{
+	background-image: url(/wp-content/uploads/2023/10/Group-5874-1.svg);
+}
+
+#uc_swipe_css_carousel_elementor_9b4fc88_item10{
+	background-image: url(/wp-content/uploads/2023/10/Group-5873-1.svg);
+}
+
+#uc_swipe_css_carousel_elementor_9b4fc88_item11{
+	background-image: url(/wp-content/uploads/2023/10/Group-5872-2.svg);
+}
+
+#uc_swipe_css_carousel_elementor_9b4fc88_item12{
+	background-image: url(/wp-content/uploads/2023/10/Group-5871-1.svg);
+}
+
+#uc_swipe_css_carousel_elementor_9b4fc88_item13{
+	background-image: url(/wp-content/uploads/2023/10/Group-5870-1.svg);
+}</style>
+
+			<div id="uc_swipe_css_carousel_elementor_9b4fc88" class="swipe_css_carousel " data-show-title="true" data-show-text="false" data-justified-widths="false">
+   <div style="height:10px;flex-shrink: 0;" class="startGap"></div>
+   <div class="uc-items-wrapper">
+<div id="uc_swipe_css_carousel_elementor_9b4fc88_item1" class="galleryItem">
+  
+   
+ 	
+  
+ <div class="swipe_css_carousel-content"> 
+   
+      		
+    	<div class="swipe_css_carousel-title">Parque infantil</div>
+   		
+   
+      
+ </div> 
+   
+</div>
+<div id="uc_swipe_css_carousel_elementor_9b4fc88_item2" class="galleryItem">
+  
+   
+ 	
+  
+ <div class="swipe_css_carousel-content"> 
+   
+      		
+    	<div class="swipe_css_carousel-title">Sauna</div>
+   		
+   
+      
+ </div> 
+   
+</div>
+<div id="uc_swipe_css_carousel_elementor_9b4fc88_item3" class="galleryItem">
+  
+   
+ 	
+  
+ <div class="swipe_css_carousel-content"> 
+   
+      		
+    	<div class="swipe_css_carousel-title">Piscina</div>
+   		
+   
+      
+ </div> 
+   
+</div>
+<div id="uc_swipe_css_carousel_elementor_9b4fc88_item4" class="galleryItem">
+  
+   
+ 	
+  
+ <div class="swipe_css_carousel-content"> 
+   
+      		
+    	<div class="swipe_css_carousel-title">Zona BBQ</div>
+   		
+   
+      
+ </div> 
+   
+</div>
+<div id="uc_swipe_css_carousel_elementor_9b4fc88_item5" class="galleryItem">
+  
+   
+ 	
+  
+ <div class="swipe_css_carousel-content"> 
+   
+      		
+    	<div class="swipe_css_carousel-title">Parqueadero visitantes</div>
+   		
+   
+      
+ </div> 
+   
+</div>
+<div id="uc_swipe_css_carousel_elementor_9b4fc88_item6" class="galleryItem">
+  
+   
+ 	
+  
+ <div class="swipe_css_carousel-content"> 
+   
+      		
+    	<div class="swipe_css_carousel-title">Salón social</div>
+   		
+   
+      
+ </div> 
+   
+</div>
+<div id="uc_swipe_css_carousel_elementor_9b4fc88_item7" class="galleryItem">
+  
+   
+ 	
+  
+ <div class="swipe_css_carousel-content"> 
+   
+      		
+    	<div class="swipe_css_carousel-title">Cancha múltiple</div>
+   		
+   
+      
+ </div> 
+   
+</div>
+<div id="uc_swipe_css_carousel_elementor_9b4fc88_item8" class="galleryItem">
+  
+   
+ 	
+  
+ <div class="swipe_css_carousel-content"> 
+   
+      		
+    	<div class="swipe_css_carousel-title">Gimnasio</div>
+   		
+   
+      
+ </div> 
+   
+</div>
+<div id="uc_swipe_css_carousel_elementor_9b4fc88_item9" class="galleryItem">
+  
+   
+ 	
+  
+ <div class="swipe_css_carousel-content"> 
+   
+      		
+    	<div class="swipe_css_carousel-title">Cancha de squash</div>
+   		
+   
+      
+ </div> 
+   
+</div>
+<div id="uc_swipe_css_carousel_elementor_9b4fc88_item10" class="galleryItem">
+  
+   
+ 	
+  
+ <div class="swipe_css_carousel-content"> 
+   
+      		
+    	<div class="swipe_css_carousel-title">Lobby</div>
+   		
+   
+      
+ </div> 
+   
+</div>
+<div id="uc_swipe_css_carousel_elementor_9b4fc88_item11" class="galleryItem">
+  
+   
+ 	
+  
+ <div class="swipe_css_carousel-content"> 
+   
+      		
+    	<div class="swipe_css_carousel-title">área de mascotas</div>
+   		
+   
+      
+ </div> 
+   
+</div>
+<div id="uc_swipe_css_carousel_elementor_9b4fc88_item12" class="galleryItem">
+  
+   
+ 	
+  
+ <div class="swipe_css_carousel-content"> 
+   
+      		
+    	<div class="swipe_css_carousel-title">Shut de basuras</div>
+   		
+   
+      
+ </div> 
+   
+</div>
+<div id="uc_swipe_css_carousel_elementor_9b4fc88_item13" class="galleryItem">
+  
+   
+ 	
+  
+ <div class="swipe_css_carousel-content"> 
+   
+      		
+    	<div class="swipe_css_carousel-title">Planta eléctrica</div>
+   		
+   
+      
+ </div> 
+   
+</div>
+</div>
+   <div style="height:10px;flex-shrink: 0;" class="endGap"></div>
+</div>
+			<!-- end Swipe Carousel -->		</div>
+				</div>
+					</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-2ac5179 e-flex e-con-boxed e-con e-child" data-id="2ac5179" data-element_type="container" data-settings="{&quot;container_type&quot;:&quot;flex&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-c0c1fd5 elementor-align-center elementor-widget elementor-widget-button" data-id="c0c1fd5" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="#formsunset">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-left">
+				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="21" viewbox="0 0 22 21"><defs><clippath id="clip-path"><rect id="Rectangle_13" data-name="Rectangle 13" width="22" height="21" transform="translate(-0.074 0.05)" fill="#fff"></rect></clippath></defs><g id="Group_5872" data-name="Group 5872" transform="translate(0.074 -0.05)"><g id="Group_13" data-name="Group 13" transform="translate(0)" clip-path="url(#clip-path)"><path id="Path_1" data-name="Path 1" d="M19.086,2.068V.8A.8.8,0,1,0,17.5.8v1.59H4.771V.8a.751.751,0,0,0-.8-.8.751.751,0,0,0-.8.8V2.068A4.088,4.088,0,0,0,0,6.044V17.018c0,2.227,1.829,4.453,4.056,4.453H18.211c2.227,0,4.056-2.227,4.056-4.453V6.044a4.088,4.088,0,0,0-3.181-3.976m-15.9,1.67V4.771a.751.751,0,0,0,.8.8.751.751,0,0,0,.8-.8v-.8H17.5v.8a.8.8,0,0,0,1.59,0V3.738a2.5,2.5,0,0,1,1.59,2.306V7.157H1.59V6.044a2.5,2.5,0,0,1,1.59-2.306m15.03,16.143H4.056A2.851,2.851,0,0,1,1.59,17.018V8.748H20.676v8.271a2.851,2.851,0,0,1-2.465,2.863" transform="translate(-0.121 -0.291)" fill="#fff"></path><path id="Path_2" data-name="Path 2" d="M166.185,208.239l-4.135,4.851L160.22,210.7a.8.8,0,1,0-1.272.954l2.386,3.181a.982.982,0,0,0,.636.318.9.9,0,0,0,.636-.239l4.771-5.567a.818.818,0,0,0-1.193-1.113" transform="translate(-151.037 -197.953)" fill="#fff"></path></g></g></svg>			</span>
+						<span class="elementor-button-text">Contáctanos</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-3c19617 e-flex e-con-boxed e-con e-parent" data-id="3c19617" data-element_type="container" data-settings="{&quot;container_type&quot;:&quot;flex&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-80df9ff e-flex e-con-boxed e-con e-child" data-id="80df9ff" data-element_type="container" data-settings="{&quot;container_type&quot;:&quot;flex&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-245c3f3 elementor-widget elementor-widget-heading" data-id="245c3f3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">¡Últimas Unidades Disponibles!</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0f9c855 elementor-widget elementor-widget-heading" data-id="0f9c855" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Entrega Inmediata</p>		</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-496e9cf section-tab e-con-full e-flex e-con e-parent" data-id="496e9cf" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;container_type&quot;:&quot;flex&quot;}" data-core-v316-plus="true">
+		<div class="elementor-element elementor-element-cc7feb7 e-flex e-con-boxed e-con e-child" data-id="cc7feb7" data-element_type="container" data-settings="{&quot;container_type&quot;:&quot;flex&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-82850a0 elementor-tabs-alignment-stretch elementor-tabs-view-horizontal elementor-widget elementor-widget-tabs" data-id="82850a0" data-element_type="widget" data-widget_type="tabs.default">
+				<div class="elementor-widget-container">
+			<style>.elementor-widget-tabs.elementor-tabs-view-vertical .elementor-tabs-wrapper{width:25%;flex-shrink:0}.elementor-widget-tabs.elementor-tabs-view-vertical .elementor-tab-desktop-title.elementor-active{border-right-style:none}.elementor-widget-tabs.elementor-tabs-view-vertical .elementor-tab-desktop-title.elementor-active:after,.elementor-widget-tabs.elementor-tabs-view-vertical .elementor-tab-desktop-title.elementor-active:before{height:999em;width:0;right:0;border-right-style:solid}.elementor-widget-tabs.elementor-tabs-view-vertical .elementor-tab-desktop-title.elementor-active:before{top:0;transform:translateY(-100%)}.elementor-widget-tabs.elementor-tabs-view-vertical .elementor-tab-desktop-title.elementor-active:after{top:100%}.elementor-widget-tabs.elementor-tabs-view-horizontal .elementor-tab-desktop-title{display:table-cell}.elementor-widget-tabs.elementor-tabs-view-horizontal .elementor-tab-desktop-title.elementor-active{border-bottom-style:none}.elementor-widget-tabs.elementor-tabs-view-horizontal .elementor-tab-desktop-title.elementor-active:after,.elementor-widget-tabs.elementor-tabs-view-horizontal .elementor-tab-desktop-title.elementor-active:before{bottom:0;height:0;width:999em;border-bottom-style:solid}.elementor-widget-tabs.elementor-tabs-view-horizontal .elementor-tab-desktop-title.elementor-active:before{right:100%}.elementor-widget-tabs.elementor-tabs-view-horizontal .elementor-tab-desktop-title.elementor-active:after{left:100%}.elementor-widget-tabs .elementor-tab-content,.elementor-widget-tabs .elementor-tab-title,.elementor-widget-tabs .elementor-tab-title:after,.elementor-widget-tabs .elementor-tab-title:before,.elementor-widget-tabs .elementor-tabs-content-wrapper{border:1px #d5d8dc}.elementor-widget-tabs .elementor-tabs{text-align:left}.elementor-widget-tabs .elementor-tabs-wrapper{overflow:hidden}.elementor-widget-tabs .elementor-tab-title{cursor:pointer;outline:var(--focus-outline,none)}.elementor-widget-tabs .elementor-tab-desktop-title{position:relative;padding:20px 25px;font-weight:700;line-height:1;border:solid transparent}.elementor-widget-tabs .elementor-tab-desktop-title.elementor-active{border-color:#d5d8dc}.elementor-widget-tabs .elementor-tab-desktop-title.elementor-active:after,.elementor-widget-tabs .elementor-tab-desktop-title.elementor-active:before{display:block;content:"";position:absolute}.elementor-widget-tabs .elementor-tab-desktop-title:focus-visible{border:1px solid #000}.elementor-widget-tabs .elementor-tab-mobile-title{padding:10px;cursor:pointer}.elementor-widget-tabs .elementor-tab-content{padding:20px;display:none}@media (max-width:767px){.elementor-tabs .elementor-tab-content,.elementor-tabs .elementor-tab-title{border-style:solid solid none}.elementor-tabs .elementor-tabs-wrapper{display:none}.elementor-tabs .elementor-tabs-content-wrapper{border-bottom-style:solid}.elementor-tabs .elementor-tab-content{padding:10px}}@media (min-width:768px){.elementor-widget-tabs.elementor-tabs-view-vertical .elementor-tabs{display:flex}.elementor-widget-tabs.elementor-tabs-view-vertical .elementor-tabs-wrapper{flex-direction:column}.elementor-widget-tabs.elementor-tabs-view-vertical .elementor-tabs-content-wrapper{flex-grow:1;border-style:solid solid solid none}.elementor-widget-tabs.elementor-tabs-view-horizontal .elementor-tab-content{border-style:none solid solid}.elementor-widget-tabs.elementor-tabs-alignment-center .elementor-tabs-wrapper,.elementor-widget-tabs.elementor-tabs-alignment-end .elementor-tabs-wrapper,.elementor-widget-tabs.elementor-tabs-alignment-stretch .elementor-tabs-wrapper{display:flex}.elementor-widget-tabs.elementor-tabs-alignment-center .elementor-tabs-wrapper{justify-content:center}.elementor-widget-tabs.elementor-tabs-alignment-end .elementor-tabs-wrapper{justify-content:flex-end}.elementor-widget-tabs.elementor-tabs-alignment-stretch.elementor-tabs-view-horizontal .elementor-tab-title{width:100%}.elementor-widget-tabs.elementor-tabs-alignment-stretch.elementor-tabs-view-vertical .elementor-tab-title{height:100%}.elementor-tabs .elementor-tab-mobile-title{display:none}}</style>		<div class="elementor-tabs">
+			<div class="elementor-tabs-wrapper" role="tablist">
+									<div id="elementor-tab-title-1361" class="elementor-tab-title elementor-tab-desktop-title" aria-selected="true" data-tab="1" role="tab" tabindex="0" aria-controls="elementor-tab-content-1361" aria-expanded="false">88.96 M2</div>
+									<div id="elementor-tab-title-1362" class="elementor-tab-title elementor-tab-desktop-title" aria-selected="false" data-tab="2" role="tab" tabindex="-1" aria-controls="elementor-tab-content-1362" aria-expanded="false">89.38 M2</div>
+									<div id="elementor-tab-title-1363" class="elementor-tab-title elementor-tab-desktop-title" aria-selected="false" data-tab="3" role="tab" tabindex="-1" aria-controls="elementor-tab-content-1363" aria-expanded="false">93 M2</div>
+									<div id="elementor-tab-title-1364" class="elementor-tab-title elementor-tab-desktop-title" aria-selected="false" data-tab="4" role="tab" tabindex="-1" aria-controls="elementor-tab-content-1364" aria-expanded="false">94.03 M2</div>
+									<div id="elementor-tab-title-1365" class="elementor-tab-title elementor-tab-desktop-title" aria-selected="false" data-tab="5" role="tab" tabindex="-1" aria-controls="elementor-tab-content-1365" aria-expanded="false">95 M2</div>
+									<div id="elementor-tab-title-1366" class="elementor-tab-title elementor-tab-desktop-title" aria-selected="false" data-tab="6" role="tab" tabindex="-1" aria-controls="elementor-tab-content-1366" aria-expanded="false">115 M2</div>
+							</div>
+			<div class="elementor-tabs-content-wrapper" role="tablist" aria-orientation="vertical">
+									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="true" data-tab="1" role="tab" tabindex="0" aria-controls="elementor-tab-content-1361" aria-expanded="false">88.96 M2</div>
+					<div id="elementor-tab-content-1361" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-1361" tabindex="0" hidden="false">		<div data-elementor-type="container" data-elementor-id="1456" class="elementor elementor-1456" data-elementor-post-type="elementor_library">
+				<div class="elementor-element elementor-element-0c552b7 e-con-full e-flex e-con e-parent" data-id="0c552b7" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;container_type&quot;:&quot;flex&quot;}" data-core-v316-plus="true">
+		<div class="elementor-element elementor-element-4cf7cc7 e-con-full e-flex e-con e-child" data-id="4cf7cc7" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;container_type&quot;:&quot;flex&quot;}">
+		<div class="elementor-element elementor-element-b5cacea e-flex e-con-boxed e-con e-child" data-id="b5cacea" data-element_type="container" data-settings="{&quot;container_type&quot;:&quot;flex&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-fa5147c e-con-full e-flex e-con e-child" data-id="fa5147c" data-element_type="container" id="categories" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;container_type&quot;:&quot;flex&quot;}">
+		<div class="elementor-element elementor-element-016c9b2 e-con-full e-flex e-con e-child" data-id="016c9b2" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;container_type&quot;:&quot;flex&quot;}">
+				<div class="elementor-element elementor-element-758fdb9 elementor-position-top elementor-widget elementor-widget-image-box" data-id="758fdb9" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<style>.elementor-widget-image-box .elementor-image-box-content{width:100%}@media (min-width:768px){.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper,.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{display:flex}.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{text-align:right;flex-direction:row-reverse}.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper{text-align:left;flex-direction:row}.elementor-widget-image-box.elementor-position-top .elementor-image-box-img{margin:auto}.elementor-widget-image-box.elementor-vertical-align-top .elementor-image-box-wrapper{align-items:flex-start}.elementor-widget-image-box.elementor-vertical-align-middle .elementor-image-box-wrapper{align-items:center}.elementor-widget-image-box.elementor-vertical-align-bottom .elementor-image-box-wrapper{align-items:flex-end}}@media (max-width:767px){.elementor-widget-image-box .elementor-image-box-img{margin-left:auto!important;margin-right:auto!important;margin-bottom:15px}}.elementor-widget-image-box .elementor-image-box-img{display:inline-block}.elementor-widget-image-box .elementor-image-box-title a{color:inherit}.elementor-widget-image-box .elementor-image-box-wrapper{text-align:center}.elementor-widget-image-box .elementor-image-box-description{margin:0}</style>
+<div class="elementor-image-box-wrapper">
+<figure class="elementor-image-box-img"><img loading="lazy" decoding="async" width="50" height="42" src="/wp-content/uploads/2023/10/Group-5910.svg" class="attachment-full size-full wp-image-1542" alt=""></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">2 Habitaciones</p></div>
+</div>		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-976cc1b e-con-full e-flex e-con e-child" data-id="976cc1b" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;container_type&quot;:&quot;flex&quot;}">
+				<div class="elementor-element elementor-element-d454c29 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="d454c29" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="/wp-content/uploads/elementor/css/custom-widget-icon-box.min.css?ver=1709309905">		<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-">
+				<svg xmlns="http://www.w3.org/2000/svg" width="54.691" height="54.692" viewbox="0 0 54.691 54.692"><g id="Group_5876" data-name="Group 5876" transform="translate(2271 -1755.105)"><g id="Group_75" data-name="Group 75" transform="translate(-2271 1755.105)"><g id="Group_74" data-name="Group 74"><g id="Group_73" data-name="Group 73"><path id="Path_60" data-name="Path 60" d="M53.78,104H33.726a.912.912,0,0,0-.912.912v21.877H28.257v-.912h.912a.912.912,0,1,0,0-1.823H20.054a.912.912,0,1,0,0,1.823h.912v.912H11.85v-.912h.912a.912.912,0,0,0,0-1.823H3.646a.912.912,0,0,0,0,1.823h.912v.912H.912A.912.912,0,0,0,0,127.7v18.23a.912.912,0,0,0,.912.912H53.78a.912.912,0,0,0,.912-.912V104.912A.912.912,0,0,0,53.78,104ZM22.788,125.877h3.646v.912H22.788Zm-16.407,0h3.646v.912H6.381Zm8.2,19.142H1.823V134.08H14.584Zm0-12.761H1.823v-3.646H14.584Zm18.231,12.761H16.407V128.611H32.815Zm20.054,0H34.638V120.407h18.23Zm0-26.434H34.638V105.823h18.23Z" transform="translate(0 -92.15)" fill="#e47e6a"></path><path id="Path_61" data-name="Path 61" d="M160.912,348.761H171.85a.912.912,0,0,0,.912-.912V336.911a.912.912,0,0,0-.912-.911H160.912a.912.912,0,0,0-.912.911V347.85A.912.912,0,0,0,160.912,348.761Zm.912-10.938h9.115v9.115h-9.115Z" transform="translate(-141.77 -297.716)" fill="#e47e6a"></path><path id="Path_62" data-name="Path 62" d="M312.912,181.469a.912.912,0,0,0,.912-.912v-3.646a.912.912,0,0,0-1.823,0v3.646A.912.912,0,0,0,312.912,181.469Z" transform="translate(-276.451 -155.946)" fill="#e47e6a"></path><path id="Path_63" data-name="Path 63" d="M312.912,261.469a.912.912,0,0,0,.912-.912v-3.646a.912.912,0,0,0-1.823,0v3.646A.912.912,0,0,0,312.912,261.469Z" transform="translate(-276.451 -226.831)" fill="#e47e6a"></path><path id="Path_64" data-name="Path 64" d="M16.315,16.2a.912.912,0,0,0,.586.212H44.247a.911.911,0,0,0,.7-1.5L35.832,3.973a.912.912,0,0,0-.7-.327H34.22V.912A.912.912,0,0,0,33.308,0H27.839a.912.912,0,0,0-.912.912V3.646h-.912a.912.912,0,0,0-.7.327L16.2,14.912A.912.912,0,0,0,16.315,16.2ZM28.751,1.823H32.4V3.646H28.751ZM26.444,5.469H34.7l7.6,9.115H18.847Z" transform="translate(-14.166)" fill="#e47e6a"></path></g></g></g></g></svg>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span>
+											</span>
+				</h3>
+									<p class="elementor-icon-box-description">
+						Cocina					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-07b1c5e e-con-full e-flex e-con e-child" data-id="07b1c5e" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;container_type&quot;:&quot;flex&quot;}">
+				<div class="elementor-element elementor-element-b0f430f elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="b0f430f" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-">
+				<svg xmlns="http://www.w3.org/2000/svg" width="41.48" height="41.328" viewbox="0 0 41.48 41.328"><g id="Grupo_69" data-name="Grupo 69" transform="translate(0.25 -0.699)"><g id="Grupo_48" data-name="Grupo 48" transform="translate(0 21.287)"><g id="Grupo_47" data-name="Grupo 47"><path id="Trazado_44" data-name="Trazado 44" d="M38.418,255.051H2.561a2.561,2.561,0,1,0,0,5.122H38.418a2.561,2.561,0,1,0,0-5.122Zm0,3.415H2.561a.854.854,0,0,1,0-1.708H38.418a.854.854,0,0,1,0,1.708Z" transform="translate(0 -255.051)" fill="#cf804d" stroke="#e47e6a" stroke-width="0.5"></path></g></g><g id="Grupo_50" data-name="Grupo 50" transform="translate(1.708 24.702)"><g id="Grupo_49" data-name="Grupo 49"><path id="Trazado_45" data-name="Trazado 45" d="M58.29,297.748a.85.85,0,0,0-1.055.587l-2.353,8.237a4.288,4.288,0,0,1-4.1,3.1h-21.3a4.29,4.29,0,0,1-4.1-3.1l-2.353-8.237a.853.853,0,1,0-1.641.468l2.353,8.237a6,6,0,0,0,5.746,4.335h21.3a6,6,0,0,0,5.747-4.335l2.353-8.237A.853.853,0,0,0,58.29,297.748Z" transform="translate(-21.344 -297.716)" fill="#cf804d" stroke="#e47e6a" stroke-width="0.5"></path></g></g><g id="Grupo_52" data-name="Grupo 52" transform="translate(6.237 28.118)"><g id="Grupo_51" data-name="Grupo 51"><path id="Trazado_46" data-name="Trazado 46" d="M81.526,345.521a.861.861,0,0,1-.821-.62L79.6,341.018a.853.853,0,1,0-1.641.468l1.108,3.883a2.569,2.569,0,0,0,2.462,1.858.853.853,0,1,0,0-1.706Z" transform="translate(-77.923 -340.398)" fill="#cf804d" stroke="#e47e6a" stroke-width="0.5"></path></g></g><g id="Grupo_54" data-name="Grupo 54" transform="translate(8.536 36.654)"><g id="Grupo_53" data-name="Grupo 53"><path id="Trazado_47" data-name="Trazado 47" d="M109.6,447.141a.857.857,0,0,0-1.146.383l-1.707,3.415a.854.854,0,1,0,1.528.763l1.707-3.415A.855.855,0,0,0,109.6,447.141Z" transform="translate(-106.654 -447.053)" fill="#cf804d" stroke="#e47e6a" stroke-width="0.5"></path></g></g><g id="Grupo_56" data-name="Grupo 56" transform="translate(29.028 36.655)"><g id="Grupo_55" data-name="Grupo 55"><path id="Trazado_48" data-name="Trazado 48" d="M366,450.943l-1.707-3.415a.854.854,0,1,0-1.528.763l1.707,3.415a.854.854,0,0,0,.763.471.883.883,0,0,0,.383-.089A.855.855,0,0,0,366,450.943Z" transform="translate(-362.675 -447.055)" fill="#cf804d" stroke="#e47e6a" stroke-width="0.5"></path></g></g><g id="Grupo_58" data-name="Grupo 58" transform="translate(29.028 0.949)"><g id="Grupo_57" data-name="Grupo 57" transform="translate(0 0)"><path id="Trazado_49" data-name="Trazado 49" d="M367.949.949a3.242,3.242,0,0,0-2.307.956l-2.71,2.71a.854.854,0,0,0,1.207,1.207l2.71-2.708a1.56,1.56,0,0,1,2.662,1.1V22.141a.855.855,0,0,0,1.709,0V4.21A3.266,3.266,0,0,0,367.949.949Z" transform="translate(-362.683 -0.949)" fill="#cf804d" stroke="#e47e6a" stroke-width="0.5"></path></g></g><g id="Grupo_60" data-name="Grupo 60" transform="translate(23.906 3.511)"><g id="Grupo_59" data-name="Grupo 59"><path id="Trazado_50" data-name="Trazado 50" d="M306.112,34.922,304.4,33.215a.839.839,0,0,0-.743-.239l-4.269.7a.853.853,0,0,0-.475,1.436l5.122,5.276a.843.843,0,0,0,.611.26.933.933,0,0,0,.244-.034.851.851,0,0,0,.6-.651l.854-4.269A.855.855,0,0,0,306.112,34.922Zm-1.979,3.111-2.853-2.939,2.225-.364,1.074,1.074Z" transform="translate(-298.677 -32.963)" fill="#cf804d" stroke="#e47e6a" stroke-width="0.5"></path></g></g><g id="Grupo_62" data-name="Grupo 62" transform="translate(17.074 11.043)"><g id="Grupo_61" data-name="Grupo 61"><path id="Trazado_51" data-name="Trazado 51" d="M216.492,127.317a.854.854,0,0,0-1.207,0l-1.707,1.707a.854.854,0,0,0,1.207,1.207l1.707-1.707A.854.854,0,0,0,216.492,127.317Z" transform="translate(-213.328 -127.067)" fill="#cf804d" stroke="#e47e6a" stroke-width="0.5"></path></g></g><g id="Grupo_64" data-name="Grupo 64" transform="translate(20.489 14.458)"><g id="Grupo_63" data-name="Grupo 63"><path id="Trazado_52" data-name="Trazado 52" d="M259.159,169.983a.854.854,0,0,0-1.207,0l-1.707,1.707a.854.854,0,0,0,1.207,1.207l1.707-1.707A.854.854,0,0,0,259.159,169.983Z" transform="translate(-255.995 -169.733)" fill="#cf804d" stroke="#e47e6a" stroke-width="0.5"></path></g></g><g id="Grupo_66" data-name="Grupo 66" transform="translate(22.197 9.336)"><g id="Grupo_65" data-name="Grupo 65"><path id="Trazado_53" data-name="Trazado 53" d="M280.492,105.983a.854.854,0,0,0-1.207,0l-1.707,1.707a.854.854,0,0,0,1.207,1.207l1.707-1.707A.854.854,0,0,0,280.492,105.983Z" transform="translate(-277.328 -105.733)" fill="#cf804d" stroke="#e47e6a" stroke-width="0.5"></path></g></g></g></svg>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span>
+											</span>
+				</h3>
+									<p class="elementor-icon-box-description">
+						2 Baños privados<br>
+1 baño social					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-36d665e e-con-full e-flex e-con e-child" data-id="36d665e" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;container_type&quot;:&quot;flex&quot;}">
+		<div class="elementor-element elementor-element-5801ebb e-con-full e-flex e-con e-child" data-id="5801ebb" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;container_type&quot;:&quot;flex&quot;}">
+				<div class="elementor-element elementor-element-7119f83 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="7119f83" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-">
+				<svg xmlns="http://www.w3.org/2000/svg" width="41" height="25.146" viewbox="0 0 41 25.146"><g id="Layer_73" data-name="Layer 73" transform="translate(-2 -13.6)"><path id="Trazado_56" data-name="Trazado 56" d="M42.125,35.132,23.866,22.859V22.7a4.653,4.653,0,1,0-6.02-4.448,1.367,1.367,0,1,0,2.733,0,1.92,1.92,0,1,1,1.92,1.92,1.367,1.367,0,0,0-1.367,1.367v2.166a1.367,1.367,0,0,0,1.086,1.367L38.531,36.006H6.469l13.5-9.075a1.367,1.367,0,1,0-1.524-2.269L2.875,35.132a1.975,1.975,0,0,0,1.1,3.615h37.05a1.975,1.975,0,0,0,1.1-3.615Z" transform="translate(0 0)" fill="#cf804d"></path></g></svg>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span>
+											</span>
+				</h3>
+									<p class="elementor-icon-box-description">
+						Vestier					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-bebea72 e-con-full e-flex e-con e-child" data-id="bebea72" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;container_type&quot;:&quot;flex&quot;}">
+				<div class="elementor-element elementor-element-c4e9b61 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="c4e9b61" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-">
+				<svg xmlns="http://www.w3.org/2000/svg" width="31.767" height="37.73" viewbox="0 0 31.767 37.73"><g id="Grupo_86" data-name="Grupo 86" transform="translate(-40.46)"><g id="Grupo_77" data-name="Grupo 77" transform="translate(40.46)"><g id="Grupo_76" data-name="Grupo 76" transform="translate(0)"><path id="Trazado_68" data-name="Trazado 68" d="M69.03,0H43.657a3.2,3.2,0,0,0-3.2,3.2V34.533a3.2,3.2,0,0,0,3.2,3.2H69.03a3.2,3.2,0,0,0,3.2-3.2V3.2A3.2,3.2,0,0,0,69.03,0ZM42.713,3.2a.946.946,0,0,1,.945-.945H69.03a.946.946,0,0,1,.945.945v4.8H42.713ZM69.974,34.533h0a.946.946,0,0,1-.945.944H43.657a.946.946,0,0,1-.945-.944V10.246H69.974V34.533Z" transform="translate(-40.46)" fill="#cf804d"></path></g></g><g id="Grupo_79" data-name="Grupo 79" transform="translate(46.635 13.153)"><g id="Grupo_78" data-name="Grupo 78" transform="translate(0)"><path id="Trazado_69" data-name="Trazado 69" d="M133.962,178.484a9.709,9.709,0,1,0,9.709,9.709A9.72,9.72,0,0,0,133.962,178.484Zm0,2.253a7.466,7.466,0,0,1,7.436,6.9c-3.374,2.357-5.04,1.026-6.39-.053-.126-.1-.244-.2-.362-.285-.1-.078-.21-.164-.323-.255a6.368,6.368,0,0,0-7.473-1.091A7.469,7.469,0,0,1,133.962,180.737Zm0,14.912a7.466,7.466,0,0,1-7.436-6.9c3.373-2.357,5.04-1.026,6.39.053.126.1.244.2.362.285.1.078.209.164.323.255a6.923,6.923,0,0,0,4.412,1.853,7.038,7.038,0,0,0,3.061-.761A7.469,7.469,0,0,1,133.962,195.649Z" transform="translate(-124.253 -178.484)" fill="#cf804d"></path></g></g><g id="Grupo_81" data-name="Grupo 81" transform="translate(64.469 3.997)"><g id="Grupo_80" data-name="Grupo 80"><path id="Trazado_70" data-name="Trazado 70" d="M369.051,54.235h-1.662a1.126,1.126,0,0,0,0,2.253h1.662a1.126,1.126,0,0,0,0-2.253Z" transform="translate(-366.263 -54.235)" fill="#cf804d"></path></g></g><g id="Grupo_83" data-name="Grupo 83" transform="translate(59.471 3.997)"><g id="Grupo_82" data-name="Grupo 82"><path id="Trazado_71" data-name="Trazado 71" d="M301.233,54.235h-1.662a1.126,1.126,0,0,0,0,2.253h1.662a1.126,1.126,0,1,0,0-2.253Z" transform="translate(-298.445 -54.235)" fill="#cf804d"></path></g></g><g id="Grupo_85" data-name="Grupo 85" transform="translate(44.303 3.997)"><g id="Grupo_84" data-name="Grupo 84"><path id="Trazado_72" data-name="Trazado 72" d="M99.234,54.235H93.742a1.126,1.126,0,0,0,0,2.253h5.491a1.126,1.126,0,0,0,0-2.253Z" transform="translate(-92.616 -54.235)" fill="#cf804d"></path></g></g></g></svg>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span>
+											</span>
+				</h3>
+									<p class="elementor-icon-box-description">
+						Zona de lavado					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-003bbcf e-con-full e-flex e-con e-child" data-id="003bbcf" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;container_type&quot;:&quot;flex&quot;}">
+				<div class="elementor-element elementor-element-371f63e elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="371f63e" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-">
+				<svg xmlns="http://www.w3.org/2000/svg" width="51.867" height="46.938" viewbox="0 0 51.867 46.938"><g id="Group_5873" data-name="Group 5873" transform="translate(1920.25 -1873.787)"><g id="Group_72" data-name="Group 72" transform="translate(-1920 1849.473)"><g id="Group_71" data-name="Group 71" transform="translate(0 24.564)"><g id="Group_70" data-name="Group 70" transform="translate(0 0)"><path id="Path_57" data-name="Path 57" d="M386.226,417.142a.753.753,0,1,0,0,1.506h2.51a.753.753,0,0,0,0-1.506Z" transform="translate(-346.8 -377.756)" fill="#e47e6a"></path><path id="Path_57_-_Outline" data-name="Path 57 - Outline" d="M386.226,416.892h2.51a1,1,0,0,1,0,2.006h-2.51a1,1,0,1,1,0-2.006Zm2.51,1.506a.5.5,0,0,0,0-1.006h-2.51a.5.5,0,1,0,0,1.006Z" transform="translate(-346.8 -377.756)" fill="#e47e6a"></path><path id="Path_58" data-name="Path 58" d="M386.226,309.061h2.51a.753.753,0,0,0,0-1.506h-2.51a.753.753,0,1,0,0,1.506Z" transform="translate(-346.8 -279.164)" fill="#e47e6a"></path><path id="Path_58_-_Outline" data-name="Path 58 - Outline" d="M388.736,309.311h-2.51a1,1,0,1,1,0-2.006h2.51a1,1,0,0,1,0,2.006Zm-2.51-1.506a.5.5,0,1,0,0,1.006h2.51a.5.5,0,0,0,0-1.006Z" transform="translate(-346.8 -279.164)" fill="#e47e6a"></path><path id="Path_59" data-name="Path 59" d="M49.5,24.564H29.323a1.866,1.866,0,0,0-1.864,1.864v3.63a.753.753,0,1,0,1.506,0v-3.63a.358.358,0,0,1,.358-.358H49.5a.358.358,0,0,1,.358.358v10.42h-20.9v-3.27a.753.753,0,0,0-1.506,0v6.044a1.866,1.866,0,0,0,1.864,1.864h6.837l-.52,2.415H26.5a5.566,5.566,0,0,0-1.454-3.4,5.481,5.481,0,0,0-4.08-1.79h-7.3a5.481,5.481,0,0,0-4.08,1.79,5.566,5.566,0,0,0-1.454,3.4H1.571A1.573,1.573,0,0,0,0,45.472v1.872a1.572,1.572,0,0,0,1.571,1.571h.97V69.5A1.508,1.508,0,0,0,4.046,71H5.634A1.508,1.508,0,0,0,7.14,69.5V48.915H9.03l.992,4.4a3.7,3.7,0,0,0,3.626,2.9h.918l.142,1.181h-2.4a3.1,3.1,0,0,0-3.093,3.093,1.827,1.827,0,0,0,1.825,1.825h5.555v5.045h-1.61a4.247,4.247,0,0,0-3.92,2.6.753.753,0,1,0,1.387.586,2.744,2.744,0,0,1,2.533-1.68h4.758a2.744,2.744,0,0,1,2.533,1.68.753.753,0,1,0,1.387-.586,4.247,4.247,0,0,0-3.92-2.6H18.1V62.311h5.488a1.827,1.827,0,0,0,1.825-1.825,3.1,3.1,0,0,0-3.093-3.093h-2.4l.142-1.181h.918a3.7,3.7,0,0,0,3.626-2.9l.992-4.4h7.048V69.369A1.635,1.635,0,0,0,34.279,71h12.8a1.635,1.635,0,0,0,1.633-1.633v-2.91a.753.753,0,1,0-1.506,0v2.91a.127.127,0,0,1-.127.127h-12.8a.127.127,0,0,1-.127-.127V59.91H47.21v3.034a.753.753,0,1,0,1.506,0V48.915h1.041a1.572,1.572,0,0,0,1.571-1.571V45.472A1.572,1.572,0,0,0,49.757,43.9H43.186l-.52-2.415H49.5a1.866,1.866,0,0,0,1.864-1.864V26.428A1.866,1.866,0,0,0,49.5,24.564ZM5.634,69.5H4.046V48.915H5.634ZM1.571,47.409a.065.065,0,0,1-.065-.065V45.472a.065.065,0,0,1,.065-.065H8.24c.035.164.24,1.07.45,2ZM23.907,60.486a.319.319,0,0,1-.319.319H11.04a.319.319,0,0,1-.319-.319A1.589,1.589,0,0,1,12.308,58.9H22.32A1.589,1.589,0,0,1,23.907,60.486ZM18.4,57.393H16.227l-.142-1.181h2.459Zm4.735-4.412a2.2,2.2,0,0,1-2.157,1.725h-7.33a2.2,2.2,0,0,1-2.157-1.725L9.724,45.15a4.044,4.044,0,0,1,.97-3.627,3.991,3.991,0,0,1,2.971-1.3h7.3a3.991,3.991,0,0,1,2.971,1.3,4.045,4.045,0,0,1,.97,3.627l-.645,2.859v0ZM47.21,58.4H34.152V48.915H47.21Zm2.612-12.931v1.872a.065.065,0,0,1-.065.065H25.938c.269-1.195.409-1.8.45-2h23.37A.065.065,0,0,1,49.822,45.472ZM41.645,43.9H37.181l.52-2.415h3.424ZM49.5,39.98H29.323a.358.358,0,0,1-.358-.358V38.354h20.9v1.268A.358.358,0,0,1,49.5,39.98Z" transform="translate(0 -24.564)" fill="#e47e6a"></path><path id="Path_59_-_Outline" data-name="Path 59 - Outline" d="M29.323,24.314H49.5a2.116,2.116,0,0,1,2.114,2.114V39.622A2.116,2.116,0,0,1,49.5,41.736H42.975l.412,1.915h6.37a1.823,1.823,0,0,1,1.821,1.821v1.872a1.823,1.823,0,0,1-1.821,1.821h-.791V62.944a1,1,0,1,1-2.006,0V60.16H34.4v9.086H46.96V66.459a1,1,0,1,1,2.006,0v2.91a1.885,1.885,0,0,1-1.883,1.883h-12.8A1.885,1.885,0,0,1,32.4,69.369v-20.2H25.8l-.948,4.2a3.946,3.946,0,0,1-3.87,3.094h-.7l-.082.681h2.12a3.347,3.347,0,0,1,3.343,3.343,2.077,2.077,0,0,1-2.075,2.075H18.35v4.545h1.392a4.5,4.5,0,0,1,4.15,2.753,1,1,0,1,1-1.848.781,2.5,2.5,0,0,0-2.3-1.527H14.984a2.494,2.494,0,0,0-2.3,1.527,1,1,0,1,1-1.848-.78,4.5,4.5,0,0,1,4.15-2.753h1.36V62.561h-5.3a2.077,2.077,0,0,1-2.075-2.075,3.347,3.347,0,0,1,3.343-3.343h2.12l-.082-.681h-.7a3.946,3.946,0,0,1-3.87-3.094l-.948-4.2H7.39V69.5a1.758,1.758,0,0,1-1.756,1.756H4.046A1.758,1.758,0,0,1,2.29,69.5V49.165h-.72A1.823,1.823,0,0,1-.25,47.345V45.472a1.823,1.823,0,0,1,1.821-1.821H7.9a5.828,5.828,0,0,1,1.5-3.317,5.728,5.728,0,0,1,4.264-1.871h7.3a5.728,5.728,0,0,1,4.264,1.871,5.827,5.827,0,0,1,1.5,3.317h8.714l.412-1.915H29.323a2.116,2.116,0,0,1-2.114-2.114V33.579a1,1,0,1,1,2.006,0V36.6h20.4V26.428a.108.108,0,0,0-.108-.108H29.323a.108.108,0,0,0-.108.108v3.63a1,1,0,1,1-2.006,0v-3.63A2.116,2.116,0,0,1,29.323,24.314ZM49.5,41.236a1.616,1.616,0,0,0,1.614-1.614V26.428A1.616,1.616,0,0,0,49.5,24.814H29.323a1.616,1.616,0,0,0-1.614,1.614v3.63a.5.5,0,1,0,1.006,0v-3.63a.609.609,0,0,1,.608-.608H49.5a.609.609,0,0,1,.608.608V37.1h-21.4v-3.52a.5.5,0,1,0-1.006,0v6.044a1.616,1.616,0,0,0,1.614,1.614H36.47l-.628,2.915H26.261l-.015-.234a5.323,5.323,0,0,0-1.388-3.245,5.233,5.233,0,0,0-3.9-1.71h-7.3a5.233,5.233,0,0,0-3.9,1.71,5.324,5.324,0,0,0-1.388,3.245l-.015.234h-6.8A1.322,1.322,0,0,0,.25,45.472v1.872a1.322,1.322,0,0,0,1.321,1.321H2.79V69.5a1.258,1.258,0,0,0,1.256,1.256H5.634A1.258,1.258,0,0,0,6.89,69.5V48.665H9.23l1.036,4.593a3.449,3.449,0,0,0,3.383,2.7h1.14l.2,1.681H12.308a2.846,2.846,0,0,0-2.843,2.843,1.577,1.577,0,0,0,1.575,1.575h5.8v5.545h-1.86a4,4,0,0,0-3.69,2.447.5.5,0,1,0,.927.391,2.993,2.993,0,0,1,2.763-1.832h4.758a2.994,2.994,0,0,1,2.763,1.833.5.5,0,0,0,.927-.391,4,4,0,0,0-3.69-2.447H17.85V62.061h5.738a1.577,1.577,0,0,0,1.575-1.575,2.846,2.846,0,0,0-2.843-2.843H19.636l.2-1.681h1.14a3.449,3.449,0,0,0,3.383-2.7L25.4,48.665h7.5v20.7a1.385,1.385,0,0,0,1.383,1.383h12.8a1.385,1.385,0,0,0,1.383-1.383v-2.91a.5.5,0,1,0-1.006,0v2.91a.378.378,0,0,1-.377.377h-12.8a.378.378,0,0,1-.377-.377V59.66H47.46v3.284a.5.5,0,1,0,1.006,0V48.665h1.291a1.322,1.322,0,0,0,1.321-1.321V45.472a1.322,1.322,0,0,0-1.321-1.321H42.984l-.628-2.915ZM28.716,38.1h21.4v1.518a.609.609,0,0,1-.608.608H29.323a.609.609,0,0,1-.608-.608Zm20.9.5h-20.4v1.018a.108.108,0,0,0,.108.108H49.5a.108.108,0,0,0,.108-.108ZM13.666,39.97h7.3a4.238,4.238,0,0,1,3.155,1.384,4.3,4.3,0,0,1,1.03,3.851L23.38,53.036a2.448,2.448,0,0,1-2.4,1.92h-7.33a2.448,2.448,0,0,1-2.4-1.92L9.481,45.2a4.3,4.3,0,0,1,1.03-3.851A4.238,4.238,0,0,1,13.666,39.97Zm10.349,7.98.644-2.855a3.8,3.8,0,0,0-.91-3.4,3.743,3.743,0,0,0-2.787-1.222h-7.3a3.744,3.744,0,0,0-2.787,1.222,3.8,3.8,0,0,0-.91,3.4l1.767,7.832a1.951,1.951,0,0,0,1.914,1.53h7.33a1.951,1.951,0,0,0,1.913-1.53ZM37.5,41.236h3.827l.628,2.915H36.872Zm3.424.5H37.9l-.412,1.915h3.845ZM1.571,45.158H8.443l.042.2c.022.107.12.539.244,1.087l.206.911.069.3H1.571a.315.315,0,0,1-.315-.315V45.472A.315.315,0,0,1,1.571,45.158Zm6.468.5H1.756v1.5H8.378l-.137-.606C8.156,46.18,8.084,45.859,8.039,45.658Zm18.146-.5H49.757a.315.315,0,0,1,.315.315v1.872a.315.315,0,0,1-.315.315H25.625l.069-.3c.1-.455.186-.826.253-1.121.107-.472.171-.757.2-.877Zm23.387.5H26.589c-.035.156-.086.383-.155.686l-.184.815H49.572ZM3.8,48.665H5.884V69.746H3.8Zm1.588.5H4.3v20.08H5.384Zm28.518-.5H47.46v9.988H33.9Zm13.058.5H34.4v8.988H46.96ZM15.8,55.962h3.023l-.2,1.681H16Zm2.459.5h-1.9l.082.681H18.18Zm-5.954,2.187H22.32a1.839,1.839,0,0,1,1.837,1.837.57.57,0,0,1-.569.569H11.04a.57.57,0,0,1-.569-.569A1.839,1.839,0,0,1,12.308,58.649Zm11.28,1.906a.069.069,0,0,0,.069-.069,1.338,1.338,0,0,0-1.337-1.337H12.308a1.338,1.338,0,0,0-1.337,1.337.069.069,0,0,0,.069.069Z" transform="translate(0 -24.564)" fill="#e47e6a"></path></g></g></g></g></svg>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span>
+											</span>
+				</h3>
+									<p class="elementor-icon-box-description">
+						Estudio					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-944a0dd e-con-full e-flex e-con e-child" data-id="944a0dd" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;container_type&quot;:&quot;flex&quot;}">
+		<div class="elementor-element elementor-element-0538832 e-con-full e-flex e-con e-child" data-id="0538832" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;container_type&quot;:&quot;flex&quot;}">
+				<div class="elementor-element elementor-element-d69d1e8 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="d69d1e8" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-">
+				<svg xmlns="http://www.w3.org/2000/svg" width="33.599" height="33.746" viewbox="0 0 33.599 33.746"><path id="Trazado_55" data-name="Trazado 55" d="M41.137,36.712h-.753V28.326h.753a.462.462,0,0,0,0-.924H35.51V18.093a10.21,10.21,0,0,0-20.421,0V27.4H9.462a.462.462,0,0,0,0,.924h.753v8.386H9.462A.462.462,0,0,0,9,37.174v2.993a.462.462,0,0,0,.462.462H41.137a.462.462,0,0,0,.462-.462V37.174A.462.462,0,0,0,41.137,36.712Zm-1.677,0H35.51V28.326h3.95Zm-19.5-8.386v8.386h-3.95V28.326Zm.924,0h3.95v8.386h-3.95Zm4.874,8.386V28.326h3.95v8.386Zm4.874-8.386h3.95v8.386h-3.95ZM25.761,27.4V18.555h8.824V27.4Zm6.42-15.538a9.251,9.251,0,0,1,2.393,5.767h-8.16Zm-6.42,5.113V8.818a9.25,9.25,0,0,1,5.767,2.393Zm-.924,0-5.767-5.767a9.251,9.251,0,0,1,5.767-2.393Zm-6.42-5.113,5.767,5.767h-8.16A9.25,9.25,0,0,1,18.417,11.865Zm-2.4,6.691h8.825V27.4H16.013Zm-4.874,9.771h3.95v8.386h-3.95ZM40.675,39.705H9.924V37.636H40.675Z" transform="translate(-8.5 -7.383)" fill="#cf804d" stroke="#e47e6a" stroke-width="1"></path></svg>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span>
+											</span>
+				</h3>
+									<p class="elementor-icon-box-description">
+						Balcón					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-cd98e83 e-con-full e-flex e-con e-child" data-id="cd98e83" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;container_type&quot;:&quot;flex&quot;}">
+				<div class="elementor-element elementor-element-c697786 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="c697786" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-">
+				<svg xmlns="http://www.w3.org/2000/svg" width="52.568" height="33.795" viewbox="0 0 52.568 33.795"><g id="Group_5875" data-name="Group 5875" transform="translate(2098 -1776.612)"><g id="Layer_15" data-name="Layer 15" transform="translate(-2102 1762.612)"><path id="Path_65" data-name="Path 65" d="M36.529,46.406H33.713V27.632H46.855a.939.939,0,0,0,.939-.939V22.939A.939.939,0,0,0,46.855,22H14.939a.939.939,0,0,0-.939.939v3.755a.939.939,0,0,0,.939.939H28.081V46.406H25.264a.939.939,0,0,0,0,1.877H36.529a.939.939,0,0,0,0-1.877ZM15.877,23.877H45.916v1.877H15.877ZM29.958,46.406V27.632h1.877V46.406Z" transform="translate(-0.613 -0.49)" fill="#e47e6a"></path><path id="Path_66" data-name="Path 66" d="M19.019,29.019H9.632V17.755A3.755,3.755,0,0,0,5.877,14,1.877,1.877,0,0,0,4,15.877V31.835a2.816,2.816,0,0,0,1.765,2.61L4.16,45.653A1.877,1.877,0,0,0,4.6,47.146a1.924,1.924,0,0,0,1.511.648,1.877,1.877,0,0,0,1.8-1.361l3.361-11.781H14.7l3.379,11.781a1.924,1.924,0,0,0,1.877,1.361,1.877,1.877,0,0,0,1.877-2.14l-1.586-11H20.9a1.877,1.877,0,0,0,1.877-1.877A3.755,3.755,0,0,0,19.019,29.019Zm-13,16.9L7.633,34.652h1.68Zm13.855,0-3.22-11.264h1.69ZM6.816,32.774a.939.939,0,0,1-.939-.939V15.877a1.877,1.877,0,0,1,1.877,1.877v12.2a.939.939,0,0,0,.939.939H19.019A1.877,1.877,0,0,1,20.9,32.774Z" transform="translate(0 0)" fill="#e47e6a"></path><path id="Path_67" data-name="Path 67" d="M58.774,31.835V15.877A1.877,1.877,0,0,0,56.9,14a3.755,3.755,0,0,0-3.755,3.755V29.019H43.755A3.755,3.755,0,0,0,40,32.774a1.877,1.877,0,0,0,1.877,1.877h.648l-1.586,11a1.877,1.877,0,0,0,.441,1.493,1.953,1.953,0,0,0,3.314-.713l3.379-11.781H51.5L54.86,46.432a1.923,1.923,0,0,0,3.755-.779L57.009,34.445A2.816,2.816,0,0,0,58.774,31.835ZM43.755,30.9H54.081a.939.939,0,0,0,.939-.939v-12.2A1.877,1.877,0,0,1,56.9,15.877V31.835a.939.939,0,0,1-.939.939H41.877A1.877,1.877,0,0,1,43.755,30.9Zm-.939,15.019,1.615-11.264h1.68ZM53.452,34.652h1.69l1.521,11.264Z" transform="translate(-2.207 0)" fill="#e47e6a"></path></g></g></svg>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span>
+											</span>
+				</h3>
+									<p class="elementor-icon-box-description">
+						Salón comedor					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-c1f2d81 e-con-full e-flex e-con e-child" data-id="c1f2d81" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;container_type&quot;:&quot;flex&quot;}">
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-6b644f2 e-flex e-con-boxed e-con e-child" data-id="6b644f2" data-element_type="container" data-settings="{&quot;container_type&quot;:&quot;flex&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-50a6e65 e-flex e-con-boxed e-con e-child" data-id="50a6e65" data-element_type="container" data-settings="{&quot;container_type&quot;:&quot;flex&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-d6e4cd3 elementor-widget elementor-widget-heading" data-id="d6e4cd3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">APTO. TIPO 8</h2>		</div>
+				</div>
+					</div>
+				</div>
+				<div class="elementor-element elementor-element-d961582 elementor-widget elementor-widget-image" data-id="d961582" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1108" height="624" src="/wp-content/uploads/2023/10/88.96m2-e1700593657402.jpg" class="attachment-full size-full wp-image-1703" alt="" srcset="/wp-content/uploads/2023/10/88.96m2-e1700593657402.jpg 1108w, /wp-content/uploads/2023/10/88.96m2-e1700593657402-300x169.jpg 300w, /wp-content/uploads/2023/10/88.96m2-e1700593657402-1024x577.jpg 1024w, /wp-content/uploads/2023/10/88.96m2-e1700593657402-768x433.jpg 768w" sizes="(max-width: 1108px) 100vw, 1108px">													</div>
+				</div>
+		<div class="elementor-element elementor-element-de1e3bf e-flex e-con-boxed e-con e-child" data-id="de1e3bf" data-element_type="container" data-settings="{&quot;container_type&quot;:&quot;flex&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-bda0f9d e-flex e-con-boxed e-con e-child" data-id="bda0f9d" data-element_type="container" data-settings="{&quot;container_type&quot;:&quot;flex&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-5c7adb8 elementor-widget elementor-widget-text-editor" data-id="5c7adb8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Este plano es una representación gráfica aproximada con una sugerencia de amoldamiento, algunos detalles, espacios y acabados pueden variar de la realidad.</p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-a65101f e-flex e-con-boxed e-con e-child" data-id="a65101f" data-element_type="container" data-settings="{&quot;container_type&quot;:&quot;flex&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-1fdfe10 e-flex e-con-boxed e-con e-child" data-id="1fdfe10" data-element_type="container" data-settings="{&quot;container_type&quot;:&quot;flex&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-8b20ef5 e-flex e-con-boxed e-con e-child" data-id="8b20ef5" data-element_type="container" data-settings="{&quot;container_type&quot;:&quot;flex&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-ff923ee elementor-widget elementor-widget-heading" data-id="ff923ee" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">88.96 M2</h5>		</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-6f8d277 e-flex e-con-boxed e-con e-child" data-id="6f8d277" data-element_type="container" data-settings="{&quot;container_type&quot;:&quot;flex&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-c5d38b7 elementor-widget elementor-widget-heading" data-id="c5d38b7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">área
+construida</p>		</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-4c6814f e-flex e-con-boxed e-con e-child" data-id="4c6814f" data-element_type="container" data-settings="{&quot;container_type&quot;:&quot;flex&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-3c21c1a e-flex e-con-boxed e-con e-child" data-id="3c21c1a" data-element_type="container" data-settings="{&quot;container_type&quot;:&quot;flex&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-049502e elementor-widget elementor-widget-heading" data-id="049502e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">88.96 M2</h5>		</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-e1a69df e-flex e-con-boxed e-con e-child" data-id="e1a69df" data-element_type="container" data-settings="{&quot;container_type&quot;:&quot;flex&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-8dda34e elementor-widget elementor-widget-heading" data-id="8dda34e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">área
+construida</p>		</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		</div>
+									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="false" data-tab="2" role="tab" tabindex="-1" aria-controls="elementor-tab-content-1362" aria-expanded="false">89.38 M2</div>
+					<div id="elementor-tab-content-1362" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-1362" tabindex="0" hidden="hidden">		<div data-elementor-type="container" data-elementor-id="1453" class="elementor elementor-1453" data-elementor-post-type="elementor_library">
+				<div class="elementor-element elementor-element-0c552b7 e-con-full e-flex e-con e-parent" data-id="0c552b7" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;container_type&quot;:&quot;flex&quot;}" data-core-v316-plus="true">
+		<div class="elementor-element elementor-element-4cf7cc7 e-con-full e-flex e-con e-child" data-id="4cf7cc7" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;container_type&quot;:&quot;flex&quot;}">
+		<div class="elementor-element elementor-element-b5cacea e-flex e-con-boxed e-con e-child" data-id="b5cacea" data-element_type="container" data-settings="{&quot;container_type&quot;:&quot;flex&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-fa5147c e-con-full e-flex e-con e-child" data-id="fa5147c" data-element_type="container" id="categories" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;container_type&quot;:&quot;flex&quot;}">
+		<div class="elementor-element elementor-element-182090f e-con-full e-flex e-con e-child" data-id="182090f" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;container_type&quot;:&quot;flex&quot;}">
+				<div class="elementor-element elementor-element-4930b2c elementor-position-top elementor-widget elementor-widget-image-box" data-id="4930b2c" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper">
+<figure class="elementor-image-box-img"><img loading="lazy" decoding="async" width="50" height="42" src="/wp-content/uploads/2023/10/Group-5910.svg" class="attachment-full size-full wp-image-1542" alt=""></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">2 Habitaciones</p></div>
+</div>		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-016c9b2 e-con-full e-flex e-con e-child" data-id="016c9b2" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;container_type&quot;:&quot;flex&quot;}">
+				<div class="elementor-element elementor-element-33d5dc0 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="33d5dc0" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-">
+				<svg xmlns="http://www.w3.org/2000/svg" width="54.691" height="54.692" viewbox="0 0 54.691 54.692"><g id="Group_5876" data-name="Group 5876" transform="translate(2271 -1755.105)"><g id="Group_75" data-name="Group 75" transform="translate(-2271 1755.105)"><g id="Group_74" data-name="Group 74"><g id="Group_73" data-name="Group 73"><path id="Path_60" data-name="Path 60" d="M53.78,104H33.726a.912.912,0,0,0-.912.912v21.877H28.257v-.912h.912a.912.912,0,1,0,0-1.823H20.054a.912.912,0,1,0,0,1.823h.912v.912H11.85v-.912h.912a.912.912,0,0,0,0-1.823H3.646a.912.912,0,0,0,0,1.823h.912v.912H.912A.912.912,0,0,0,0,127.7v18.23a.912.912,0,0,0,.912.912H53.78a.912.912,0,0,0,.912-.912V104.912A.912.912,0,0,0,53.78,104ZM22.788,125.877h3.646v.912H22.788Zm-16.407,0h3.646v.912H6.381Zm8.2,19.142H1.823V134.08H14.584Zm0-12.761H1.823v-3.646H14.584Zm18.231,12.761H16.407V128.611H32.815Zm20.054,0H34.638V120.407h18.23Zm0-26.434H34.638V105.823h18.23Z" transform="translate(0 -92.15)" fill="#e47e6a"></path><path id="Path_61" data-name="Path 61" d="M160.912,348.761H171.85a.912.912,0,0,0,.912-.912V336.911a.912.912,0,0,0-.912-.911H160.912a.912.912,0,0,0-.912.911V347.85A.912.912,0,0,0,160.912,348.761Zm.912-10.938h9.115v9.115h-9.115Z" transform="translate(-141.77 -297.716)" fill="#e47e6a"></path><path id="Path_62" data-name="Path 62" d="M312.912,181.469a.912.912,0,0,0,.912-.912v-3.646a.912.912,0,0,0-1.823,0v3.646A.912.912,0,0,0,312.912,181.469Z" transform="translate(-276.451 -155.946)" fill="#e47e6a"></path><path id="Path_63" data-name="Path 63" d="M312.912,261.469a.912.912,0,0,0,.912-.912v-3.646a.912.912,0,0,0-1.823,0v3.646A.912.912,0,0,0,312.912,261.469Z" transform="translate(-276.451 -226.831)" fill="#e47e6a"></path><path id="Path_64" data-name="Path 64" d="M16.315,16.2a.912.912,0,0,0,.586.212H44.247a.911.911,0,0,0,.7-1.5L35.832,3.973a.912.912,0,0,0-.7-.327H34.22V.912A.912.912,0,0,0,33.308,0H27.839a.912.912,0,0,0-.912.912V3.646h-.912a.912.912,0,0,0-.7.327L16.2,14.912A.912.912,0,0,0,16.315,16.2ZM28.751,1.823H32.4V3.646H28.751ZM26.444,5.469H34.7l7.6,9.115H18.847Z" transform="translate(-14.166)" fill="#e47e6a"></path></g></g></g></g></svg>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span>
+											</span>
+				</h3>
+									<p class="elementor-icon-box-description">
+						Cocina					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-07b1c5e e-con-full e-flex e-con e-child" data-id="07b1c5e" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;container_type&quot;:&quot;flex&quot;}">
+				<div class="elementor-element elementor-element-b0f430f elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="b0f430f" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-">
+				<svg xmlns="http://www.w3.org/2000/svg" width="41.48" height="41.328" viewbox="0 0 41.48 41.328"><g id="Grupo_69" data-name="Grupo 69" transform="translate(0.25 -0.699)"><g id="Grupo_48" data-name="Grupo 48" transform="translate(0 21.287)"><g id="Grupo_47" data-name="Grupo 47"><path id="Trazado_44" data-name="Trazado 44" d="M38.418,255.051H2.561a2.561,2.561,0,1,0,0,5.122H38.418a2.561,2.561,0,1,0,0-5.122Zm0,3.415H2.561a.854.854,0,0,1,0-1.708H38.418a.854.854,0,0,1,0,1.708Z" transform="translate(0 -255.051)" fill="#cf804d" stroke="#e47e6a" stroke-width="0.5"></path></g></g><g id="Grupo_50" data-name="Grupo 50" transform="translate(1.708 24.702)"><g id="Grupo_49" data-name="Grupo 49"><path id="Trazado_45" data-name="Trazado 45" d="M58.29,297.748a.85.85,0,0,0-1.055.587l-2.353,8.237a4.288,4.288,0,0,1-4.1,3.1h-21.3a4.29,4.29,0,0,1-4.1-3.1l-2.353-8.237a.853.853,0,1,0-1.641.468l2.353,8.237a6,6,0,0,0,5.746,4.335h21.3a6,6,0,0,0,5.747-4.335l2.353-8.237A.853.853,0,0,0,58.29,297.748Z" transform="translate(-21.344 -297.716)" fill="#cf804d" stroke="#e47e6a" stroke-width="0.5"></path></g></g><g id="Grupo_52" data-name="Grupo 52" transform="translate(6.237 28.118)"><g id="Grupo_51" data-name="Grupo 51"><path id="Trazado_46" data-name="Trazado 46" d="M81.526,345.521a.861.861,0,0,1-.821-.62L79.6,341.018a.853.853,0,1,0-1.641.468l1.108,3.883a2.569,2.569,0,0,0,2.462,1.858.853.853,0,1,0,0-1.706Z" transform="translate(-77.923 -340.398)" fill="#cf804d" stroke="#e47e6a" stroke-width="0.5"></path></g></g><g id="Grupo_54" data-name="Grupo 54" transform="translate(8.536 36.654)"><g id="Grupo_53" data-name="Grupo 53"><path id="Trazado_47" data-name="Trazado 47" d="M109.6,447.141a.857.857,0,0,0-1.146.383l-1.707,3.415a.854.854,0,1,0,1.528.763l1.707-3.415A.855.855,0,0,0,109.6,447.141Z" transform="translate(-106.654 -447.053)" fill="#cf804d" stroke="#e47e6a" stroke-width="0.5"></path></g></g><g id="Grupo_56" data-name="Grupo 56" transform="translate(29.028 36.655)"><g id="Grupo_55" data-name="Grupo 55"><path id="Trazado_48" data-name="Trazado 48" d="M366,450.943l-1.707-3.415a.854.854,0,1,0-1.528.763l1.707,3.415a.854.854,0,0,0,.763.471.883.883,0,0,0,.383-.089A.855.855,0,0,0,366,450.943Z" transform="translate(-362.675 -447.055)" fill="#cf804d" stroke="#e47e6a" stroke-width="0.5"></path></g></g><g id="Grupo_58" data-name="Grupo 58" transform="translate(29.028 0.949)"><g id="Grupo_57" data-name="Grupo 57" transform="translate(0 0)"><path id="Trazado_49" data-name="Trazado 49" d="M367.949.949a3.242,3.242,0,0,0-2.307.956l-2.71,2.71a.854.854,0,0,0,1.207,1.207l2.71-2.708a1.56,1.56,0,0,1,2.662,1.1V22.141a.855.855,0,0,0,1.709,0V4.21A3.266,3.266,0,0,0,367.949.949Z" transform="translate(-362.683 -0.949)" fill="#cf804d" stroke="#e47e6a" stroke-width="0.5"></path></g></g><g id="Grupo_60" data-name="Grupo 60" transform="translate(23.906 3.511)"><g id="Grupo_59" data-name="Grupo 59"><path id="Trazado_50" data-name="Trazado 50" d="M306.112,34.922,304.4,33.215a.839.839,0,0,0-.743-.239l-4.269.7a.853.853,0,0,0-.475,1.436l5.122,5.276a.843.843,0,0,0,.611.26.933.933,0,0,0,.244-.034.851.851,0,0,0,.6-.651l.854-4.269A.855.855,0,0,0,306.112,34.922Zm-1.979,3.111-2.853-2.939,2.225-.364,1.074,1.074Z" transform="translate(-298.677 -32.963)" fill="#cf8
